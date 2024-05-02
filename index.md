@@ -41,7 +41,7 @@ text-align: center;
   
 }
 
-body {
+body{
 
 text-align: center;
 
