@@ -2,12 +2,12 @@
 
 bcewbciebchiebgbcewbfhewbcuiewhfbwhebwciwefaflwfbrbvyebviwlvl b
 
-### hello again
+### goodbye
 
 <style>
   
   h1{ text-align: center; } 
 
-  text-align:center;
+  body {text-align: center;}
 
 </style>
