@@ -11,7 +11,8 @@ will prepair them for life as a responsible adult, to help them understand how t
 
 <img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" width=1000 height=500/>
 
-  <hr>
+   <hr>
+   <hr>
 
   
 
@@ -53,7 +54,11 @@ hr{
   
 }
 
-
+ background-color: black; 
+    height: 1px; 
+    border: none; 
+    margin: 20px 0; 
+}
   
 
 
