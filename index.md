@@ -47,6 +47,10 @@ body{
 
 text-align: center;
 
+hr{
+
+  color: black;
+  
 }
 
 
