@@ -1,5 +1,5 @@
 <h1>Welcome to Troop 223!</h1>
-HI
+
   <hr>
 
 here in troop 223, we aim to help our scous achieve all they can, all the way up to first class. 
@@ -102,7 +102,7 @@ text-align: left;
     
   }
 
-a {
+href {
 
 text-align: left;
   
