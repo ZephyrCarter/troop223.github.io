@@ -2,6 +2,8 @@
 
 <hr>
 
+<div class="links">
+
 <ul>
 
 <li><a href="?">N/A</a></li>
@@ -9,6 +11,8 @@
 <li><a href="?">N/A</a></li>
 
 </ul>
+
+</div>
 
 <hr>
 
@@ -22,12 +26,19 @@ questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.co
 
 <style>
 
-body{
+body {
 
 text-align: center;
 
   
 }
+
+.links {
+
+text-align: left;
+  
+}
+
   
 </style>
   
