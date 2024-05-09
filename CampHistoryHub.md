@@ -1,4 +1,4 @@
-## Click on any of these links to view the most memorable moments of each of our campouts
+<h2>Click on any of these links to view the most memorable moments of each of our campouts</h2>
 
 <hr>
 
