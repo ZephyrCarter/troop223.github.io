@@ -100,7 +100,31 @@ The <strong>Scout Oath</strong> and <strong>Law</strong> are a set of morals and
 at every meeting we recite these, along with the pledge and outdoor code, to remind us to always be true to the fundamentals of scouting and to reinvigorate us with the <strong>Scout Spirit.</strong>
 <hr>
 
-<h5>Scout Oath</h5>
+<h4><strong>Scout Oath</strong></h4>
+<h5>
+On My Honor, I wil do my best,
+<br>
+to do My duty to God and My Country,
+<br>
+and to Obey the Scout law, 
+<br>
+to help other People at all times,
+<br> 
+to keep Myself phisically strong, 
+<br>
+Mentally awake, 
+<br> 
+and morally Strait.
+</h5>
+
+
+
+
+
+
+
+
+
 
 <hr>
 <hr>
