@@ -21,6 +21,15 @@ Truley an amazing trip!
 ![image](https://github.com/Troop223/223-Official/assets/168667435/c25ae770-1cc1-48f0-87f3-44b241fd2b48)
 
 
+<style>
 
+body{
+
+text-align: center;
+
+  
+}
+  
+</style>
 
 
