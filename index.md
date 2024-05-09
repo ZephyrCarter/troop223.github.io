@@ -4,7 +4,7 @@
 
 <h5>
 
-  here in troop 223, we aim to help our scous achieve all they can, all the way up to first class. 
+  here in troop 223, we aim to help our scouts achieve all they can, all the way up to first class. 
 <br>
 this is a troop whos aim is to help our scouts, according to the scout oath and law, to achieve milestones in thier lives which 
 will prepair them for life as a responsible adult, to help them understand how to be conservation minded, and to to give them the skills to have an effective and proactive adult life.
@@ -42,7 +42,7 @@ responsibility that they will run into in thier everyday adult lives.
 <p>
 
 The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for
-on thier own. these are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to    acomplish. Achieving these can be vital when getting jobs in many fields, and espesually the armed forces. That is why Troop 223 is such a good choice when looking for troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitance for Scouts in thier adult lives.
+on thier own. these are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to    accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the armed forces. That is why Troop 223 is such a good choice when looking for troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
 
 </p>
 
@@ -64,13 +64,14 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <hr>
 
-  <div class="CampingLinks">
+  <div class="LinksLeft">
 <ul>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
-<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
+<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
+  </div>
 <a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
 </ul>
-  </div>
+
 
    <hr>
 
@@ -78,16 +79,31 @@ As previously stated, we try to go camping at least once a month. our goal is to
   
   <hr>
 
-  <div class="UpcomingEventsList">
+  <div class="LinksLeft">
 <ul>
 <li>N/A</li>
 <li>N/A</li>
 <li>N/A</li>
+  </div>
 <a href="https://troop223.github.io/223-Official/UpcomingEventsHub">MORE</a>
 </ul>
-  </div>
 
-   <hr>
+ <hr>
+
+<h3>Oath and Law</h3>
+
+<hr>
+
+
+The <strong>Scout Oath</strong> and <strong>Law</strong> are a set of morals and principles which we as scouts are required to live by on a daily basis and throughout our communities. these are the laws and rules which are fundamentle to scouting as a whole, and without them scouting would not be the organization it is today.
+<br>
+at every meeting we recite these, along with the pledge and outdoor code, to remind us to always be true to the fundamentals of scouting and to reinvigorate us with the <strong>Scout Spirit.</strong>
+<hr>
+
+<h5>Scout Oath</h5>
+
+<hr>
+<hr>
 
 <h6>
 
@@ -133,18 +149,13 @@ text-align: left;
     
   }
 
-.CampingLinks {
+.LinksLeft {
 
 text-align: left;
   
 }
 
 .firstImage {
-
-text-align: left;
-  
-}
- .UpcomingEventsList {
 
 text-align: left;
   
