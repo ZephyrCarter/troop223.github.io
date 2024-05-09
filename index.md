@@ -42,6 +42,24 @@ on thier own. these are ranks that are highly saught after and mean a lot to ach
 
 </p>
 
+  <hr>
+
+<h2>
+
+But what about Caming?
+  
+</h2>
+
+  <hr>
+
+
+
+
+
+
+
+
+
 
    <hr>
    <hr>
@@ -61,7 +79,7 @@ on thier own. these are ranks that are highly saught after and mean a lot to ach
 
 <style>
   
-h1{
+{
 
 text-align: center;
   
@@ -72,12 +90,6 @@ body{
 text-align: center;
 
   
-}
-
-hr{
-
-  bachground-color: black;
-
 }
 
   h6{
