@@ -88,12 +88,6 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
 
 <style>
-  
-{
-
-text-align: center;
-  
-}
 
 body{
 
