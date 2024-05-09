@@ -74,20 +74,28 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
    <hr>
 
-   ##### questions or comments? please email us at:  
-<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> or our Scoutmaster at: 
-<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
-   ##### Or you can call our scoutmaster at:
-   423-355-4430
+<h5>
 
-   ##### NOTE: our Scoutmaster does not directly control this site, so for any questions or comments please Email: 
+  questions or comments? please email us at:  
 <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> 
-
-   ##### And for any general questions about the Troop please Email or call 
+  <br> 
+  or our Scoutmaster at: 
 <a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
   <br>
-  423-355-4430
-  </br>
+  you can also reach our Scoutmaster at:
+   423-355-4430
+
+<p>
+
+  NOTE: our Scoutmaster does not directly control this site, so for any questions or comments please Email: 
+  <br>
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>
+<br> And for any general questions about the Troop please Email:
+<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
+  <br>
+Or call:  423-355-4430
+  </p>
+  </h5>
 
 
 
