@@ -2,7 +2,7 @@
 
   <hr>
 
-<strong>
+<h5>
 
   here in troop 223, we aim to help our scous achieve all they can, all the way up to first class. 
 <br>
@@ -13,7 +13,7 @@ will prepair them for life as a responsible adult, to help them understand how t
 Please join us in helping the youth of America by signing up now!
 </p>
 
-</strong>
+</h5>
 
   <hr>
 
