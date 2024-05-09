@@ -1,5 +1,5 @@
 <h1>Welcome to Troop 223!</h1>
-
+hello
   <hr>
 
 here in troop 223, we aim to help our scous achieve all they can, all the way up to first class. 
@@ -15,11 +15,11 @@ Please join us in helping the youth of America by signing up now!
 
 <img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" width=1000 height=600/>
 
-<h6>
+<div class="firstImage">
   <i>
 Latimer Scout Camp during Sunset
   </i>
-</h6>
+</div>
 
 <hr>
 
@@ -60,11 +60,13 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <hr>
 
+  <div class="CampingLinks">
 <ul>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
 
 </ul>
+  </div>
 
 <hr>
 
@@ -102,11 +104,17 @@ text-align: left;
     
   }
 
-href {
+.CampingLinks {
 
 text-align: left;
   
 }
 
+.firstImage {
+
+text-align: left;
+  
+}
+  
   
 </style>
