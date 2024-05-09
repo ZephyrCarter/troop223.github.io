@@ -26,8 +26,10 @@ Ranch.
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/4301c50f-4243-4267-8712-8d627fd6d961)
 
+<hr>
 
-
+   ##### questions or comments? please email us at:  
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>
 
 
 
