@@ -46,7 +46,7 @@ on thier own. these are ranks that are highly saught after and mean a lot to ach
 
 <h2>
 
-But what about Caming?
+But what about Camping?
   
 </h2>
 
