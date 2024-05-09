@@ -18,3 +18,15 @@ questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.co
 </h6>
 
 <hr>
+
+
+<style>
+
+body{
+
+text-align: center;
+
+  
+}
+  
+</style>
