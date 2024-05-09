@@ -27,9 +27,8 @@ Troop 223 tries to offer at least once-monethly campouts to our scouts, in order
 First Class
   <p>
 
-first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where 
-our adult leaders will try to help the scouts advance to, where they will learn basic elements of conservation, survival skils, and 
-responsibility that they will run into in thier adult lives
+first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where  adult leaders will try to help the scouts advance, where they will learn basic elements of conservation, survival skils, and 
+responsibility that they will run into in thier everyday adult lives.
     
   </p>
 
