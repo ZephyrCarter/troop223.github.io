@@ -64,14 +64,14 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <hr>
 
-  <div class="LinksLeft">
+  <div class="CampLeft">
 <ul>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
-  </div>
-<a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
 </ul>
-
+ </div>
+     
+<a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
 
    <hr>
 
@@ -79,14 +79,16 @@ As previously stated, we try to go camping at least once a month. our goal is to
   
   <hr>
 
-  <div class="LinksLeft">
+  <div class="SceduleLeft">
 <ul>
 <li>N/A</li>
 <li>N/A</li>
 <li>N/A</li>
-  </div>
-<a href="https://troop223.github.io/223-Official/UpcomingEventsHub">MORE</a>
 </ul>
+  </div>
+
+
+<a href="https://troop223.github.io/223-Official/UpcomingEventsHub">MORE</a>
 
  <hr>
 
@@ -116,12 +118,6 @@ Mentally awake,
 <br> 
 and morally Strait.
 </h5>
-
-
-
-
-
-
 
 
 
@@ -173,12 +169,18 @@ text-align: left;
     
   }
 
-.LinksLeft {
+.CampLeft {
 
 text-align: left;
   
 }
 
+.SceduleLeft {
+
+text-align: left;
+  
+}
+  
 .firstImage {
 
 text-align: left;
