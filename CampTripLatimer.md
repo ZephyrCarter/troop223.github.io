@@ -8,8 +8,6 @@ Truley an amazing trip!
 
 <hr>
 
-<div class="images">
-
 ![image](https://github.com/Troop223/223-Official/assets/168667435/92485eb5-1001-4263-92af-3a53d66bd6a8)
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/cf2b4c2e-ccdd-493a-b97e-934e416bb451)
@@ -31,11 +29,6 @@ text-align: center;
   
 }
 
-.images {
-
-text-align: left;
-  
-}
   
 </style>
 
