@@ -83,7 +83,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <li>N/A</li>
 <li>N/A</li>
 <li>N/A</li>
-<a href="URL">MORE</a>
+<a href="https://troop223.github.io/223-Official/UpcomingEventsHub">MORE</a>
 </ul>
   </div>
 
