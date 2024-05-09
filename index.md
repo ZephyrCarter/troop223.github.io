@@ -1,5 +1,5 @@
 <h1>Welcome to Troop 223!</h1>
-hello
+
   <hr>
 
 here in troop 223, we aim to help our scous achieve all they can, all the way up to first class. 
@@ -68,21 +68,22 @@ As previously stated, we try to go camping at least once a month. our goal is to
 </ul>
   </div>
 
-<hr>
-
-
-
-
-   <hr>
    <hr>
 
+   ##### questions or comments? please email us at:  
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> or our Scoutmaster at: 
+<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
+   ##### Or you can call our scoutmaster at:
+   423-355-4430
 
+   ##### NOTE: our Scoutmaster does not directly control this site, so for any questions or comments please Email: 
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> 
 
-
-
-
-
-
+   ##### And for any general questions about the Troop please Email or call 
+<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
+  <br>
+  423-355-4430
+  </br>
 
 
 
