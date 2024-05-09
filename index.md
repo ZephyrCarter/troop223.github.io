@@ -68,7 +68,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <ul>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
-
+<a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
 </ul>
   </div>
 
