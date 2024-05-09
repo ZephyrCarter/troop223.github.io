@@ -76,7 +76,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
 <h6>
 
-  questions or comments? please email us at:  
+  questions or comments? please email us at:  <br>
 <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> 
   <br> 
   or our Scoutmaster at: 
