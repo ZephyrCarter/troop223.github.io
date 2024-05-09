@@ -25,6 +25,9 @@ Latimer Scout Camp during Sunset
 
 Troop 223 tries to offer at least once-monethly campouts to our scouts, in order for them to rapidly advance to the rank of 
 First Class
+
+  <hr>
+  
   <p>
 
 first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where  adult leaders will try to help the scouts advance, where they will learn basic elements of conservation, survival skils, and 
