@@ -156,14 +156,14 @@ Or call:  423-355-4430
 
 <style>
 
-body{
+body {
 
 text-align: center;
 
   
 }
 
-  h6{
+  h6 {
 
 text-align: left;
     
