@@ -14,17 +14,12 @@ Please join us in helping the youth of America and sign up now!
   <hr>
 
 <img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" width=1000 height=600/>
-<i>
-  Latimer Scout Camp during Sunset
-</i>
 
-hello
-<h1>hello</h1>
-<h2>hello</h2>
-<h3>hello</h3>
-<h4>hello</h4>
-<h5>hello</h5>
-<h6>hello</h6>
+<h6>
+  <i>
+Latimer Scout Camp during Sunset
+  </i>
+</h6>
 
    <hr>
    <hr>
@@ -71,7 +66,12 @@ hr{
   bachground-color: black;
 
 }
-  
+
+  h6{
+
+text-align: left;
+    
+  }
 
 
 
