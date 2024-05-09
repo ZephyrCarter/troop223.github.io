@@ -30,23 +30,23 @@ First Class
   
   <p>
 
-first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where  adult leaders will try to help the scouts advance, where they will learn basic elements of conservation, survival skils, and 
-responsibility that they will run into in thier everyday adult lives.
-    
+first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where  adult leaders will try to help the scouts advance, and where they will learn basic elements of conservation, survival skils, and 
+responsibility that they will run into in thier everyday adult lives. 
+
   </p>
 
+<p>
+
+  The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for
+  on thier own. these are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to      achieve. Achieving these can be vital when getting jobs in many fields, Espesually the armed forces. That is why Troop 223 is such a
+  good choice when looking for troops to join, because the skills and benifits achieved here can benifit both in the short term and the
+  long run.
+
+</p>
+
 
    <hr>
    <hr>
-
-  
-
-
-
-
-
-
-
 
 
 
