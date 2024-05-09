@@ -9,7 +9,7 @@ will prepair them for life as a responsible adult, to help them understand how t
 
   <hr>
 
-Please join us in helping the youth of America by signing your child up now!
+Please join us in helping the youth of America and sign up now!
 
   <hr>
 
