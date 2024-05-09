@@ -20,10 +20,12 @@ Truley an amazing trip!
 
 <hr>
 
-   ##### questions or comments? please email us at:  
+ <h6>
+   
+   questions or comments? please email us at:  
 <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>
 
-
+</h6>
 
 <style>
 
