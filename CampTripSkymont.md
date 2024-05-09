@@ -8,8 +8,6 @@ Ranch.
 
 <hr>
 
-<div class="images">
-
 ![image](https://github.com/Troop223/223-Official/assets/168667435/cbaf8a59-33d1-41b0-a190-989cb5d37d80)
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/e18035b5-d0d4-4167-8a70-c3a8181d04af)
@@ -30,7 +28,7 @@ Ranch.
 
 
 
-</div>
+
 
 
 
@@ -76,11 +74,6 @@ text-align: center;
   
 }
 
-.images {
-
-text-align: left;
-  
-}
   
 </style>
 
