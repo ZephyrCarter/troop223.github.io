@@ -40,7 +40,7 @@ responsibility that they will run into in thier everyday adult lives.
   The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for
   on thier own. these are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to      achieve. Achieving these can be vital when getting jobs in many fields, Espesually the armed forces. That is why Troop 223 is such a
   good choice when looking for troops to join, because the skills and benifits achieved here can benifit both in the short term and the
-  long run.
+  long run, leading to success and compitance for scouts in thier adult lives.
 
 </p>
 
