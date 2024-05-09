@@ -8,7 +8,7 @@ Truley an amazing trip!
 
 <hr>
 
-![image](https://github.com/Troop223/223-Official/assets/168667435/203cddd2-e9bc-428b-bdb5-a3d6ca48086e)
+<div class="images">
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/92485eb5-1001-4263-92af-3a53d66bd6a8)
 
@@ -20,6 +20,7 @@ Truley an amazing trip!
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/c25ae770-1cc1-48f0-87f3-44b241fd2b48)
 
+</div>
 
 <style>
 
@@ -27,6 +28,12 @@ body{
 
 text-align: center;
 
+  
+}
+
+.images {
+
+text-align: left;
   
 }
   
