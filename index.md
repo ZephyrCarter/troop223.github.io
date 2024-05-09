@@ -56,11 +56,11 @@ But what about Camping?
 
   <hr>
 
-As previously stated, we try to go camping at least once a month. our goal is to get the scouts to a ptoficiant rank, while still having fun. The Troop goes to a variety of locations, including state parks, Private camp sites, and scout camps, in order to get the scouts aquainted to a variety of locations and conditions, including rain, snow, heat and PAIN! All jokes aside, we try to get the scouts as prepaired as possible while still having fun. some of our activities on trips include: rapelling, biking, hiking, canoeing, shooting and much more, 
+As previously stated, we try to go camping at least once a month. our goal is to get the scouts to a proficiant rank, while still having fun. The Troop goes to a variety of locations, including state parks, Private camp sites, and scout camps, and in addition we try to get the scouts aquainted to a variety of locations and conditions, including rain, snow, heat and PAIN!  All jokes aside though, we try to get the scouts as prepaired as possible while still having fun. some of our activities on trips include: rapelling, biking, hiking, canoeing, shooting and much, much, more!
 
   <hr>
 
-<h4>To see some of our previous trips, please look HERE:</h4>
+<h4>To see some of our previous trips, please look here:</h4>
 
   <hr>
 
