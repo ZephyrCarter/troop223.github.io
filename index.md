@@ -74,6 +74,21 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
    <hr>
 
+  <h4>Upcoming events and trips</h4>
+  
+  <hr>
+
+  <div class="UpcomingEventsList">
+<ul>
+<li>N/A</li>
+<li>N/A</li>
+<li>N/A</li>
+<a href="URL">MORE</a>
+</ul>
+  </div>
+
+   <hr>
+
 <h6>
 
   questions or comments? please email us at:  <br>
@@ -98,7 +113,6 @@ As previously stated, we try to go camping at least once a month. our goal is to
 Or call:  423-355-4430
   </p>
   </h6>
-
 
 
 
@@ -130,6 +144,10 @@ text-align: left;
 text-align: left;
   
 }
+ .UpcomingEventsList {
+
+text-align: left;
   
+}
   
 </style>
