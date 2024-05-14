@@ -144,7 +144,9 @@ and morally Strait.
   <br>
   Clean,
   <br>
-  and Reverent
+  and 
+  <br>
+  Reverent
 
 </h5>
 
