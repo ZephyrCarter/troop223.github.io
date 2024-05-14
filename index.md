@@ -58,21 +58,6 @@ But what about Camping?
 
 As previously stated, we try to go camping at least once a month. our goal is to get the scouts to a proficiant rank, while still having fun. The Troop goes to a variety of locations, including state parks, Private camp sites, and scout camps, and in addition we try to get the scouts aquainted to a variety of locations and conditions, including rain, snow, heat and PAIN!  All jokes aside though, we try to get the scouts as prepaired as possible while still having fun. some of our activities on trips include: rapelling, biking, hiking, canoeing, shooting and much, much, more!
 
-  <hr>
-
-<h4>To see some of our previous trips, please look here:</h4>
-
-  <hr>
-
-  <div class="CampLeft">
-<ul>
-<li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
-<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
-</ul>
- </div>
-     
-<a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
-
    <hr>
 
   <h4>Upcoming events and trips</h4>
@@ -90,6 +75,22 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <a href="https://troop223.github.io/223-Official/UpcomingEventsHub">MORE</a>
 
  <hr>
+
+
+<h4>To see some of our previous trips, please look here:</h4>
+
+  <hr>
+
+  <div class="CampLeft">
+<ul>
+<li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
+<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
+</ul>
+ </div>
+     
+<a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
+
+<hr>
 
 <h3>Oath and Law</h3>
 
@@ -118,10 +119,35 @@ Mentally awake,
 and morally Strait.
 </h5>
 
+<h4><strong>Scout Law</strong></h4>
+<h5>A Scout is
+  <br>
+  Trustworthy,
+  <br>
+  Loyal,
+  <br>
+  Helpful,
+  <br>
+  Friendly,
+  <br>
+  Courteous,
+  <br>
+  Kind,
+  <br>
+  Obedient,
+  <br>
+  Cheerful,
+  <br>
+  Thrifty,
+  <br>
+  Brave,
+  <br>
+  Clean,
+  <br>
+  and Reverent
 
+</h5>
 
-
-<hr>
 <hr>
 
 <h6>
