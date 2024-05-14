@@ -81,9 +81,9 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <div class="SceduleLeft">
 <ul>
-<li>N/A</li>
-<li>N/A</li>
-<li>N/A</li>
+<li><a href="URL">clickable text</a></li>
+<li><a href="URL">clickable text</a></li>
+<li><a href="URL">clickable text</a></li>
 </ul>
   </div>
 
