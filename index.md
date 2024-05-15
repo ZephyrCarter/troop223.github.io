@@ -10,7 +10,7 @@ this is a troop whos aim is to help our scouts, according to the scout oath and 
 will prepair them for life as a responsible adult, to help them understand how to be conservation minded, and to to give them the skills to have an effective and proactive adult life.
 
 <p>
-Please join us in helping the youth of America by signing up now!
+<strong>Please join us in helping the youth of America by signing up now!</strong>
 </p>
 
 </h5>
