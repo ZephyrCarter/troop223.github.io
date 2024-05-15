@@ -19,10 +19,12 @@ will prepair them for life as a responsible adult, to help them understand how t
 
 <img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" width=1000 height=600/>
 
-<div class="Images">
-  <i>
-Latimer Scout Camp during Sunset
-  </i>
+<div class="ImageTxt">
+  <h6>
+<i>
+  Latimer Scout Camp during Sunset
+</i>
+  </h6>
 </div>
 
 <hr>
@@ -185,6 +187,20 @@ A Scout uniform, which is also called a Class A, consists of four elements:
   </div>
 You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect.
   </p>
+Here is an example of a properly dressed Scout:
+<br>
+
+<div class="ImageLeft">
+<img src="https://github.com/Troop223/223-Official/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
+</div>
+
+  <div class="ImageTxt">
+<h6>
+  <i>
+BSA Troop 1 - Albuquerque, NM
+  </i>
+</h6>
+  </div>
 
   
 
@@ -243,10 +259,16 @@ text-align: left;
   
 }
   
-.Images {
+.ImageTxt {
 
 text-align: left;
   
 }
+
+  .ImageLeft {
+
+  text-align: left;
+    
+  }
   
 </style>
