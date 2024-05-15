@@ -119,6 +119,8 @@ Mentally awake,
 and morally Strait.
 </h5>
 
+<hr>
+
 <h4><strong>Scout Law</strong></h4>
 <h5>A Scout is
   <br>
@@ -147,9 +149,11 @@ and morally Strait.
   and 
   <br>
   Reverent
+  <br>
 
 </h5>
 
+<hr>
 <hr>
 
 <h6>
