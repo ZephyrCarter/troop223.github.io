@@ -64,7 +64,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
   
   <hr>
 
-  <div class="SceduleLeft">
+  <div class="UlLeft">
 <ul>
 <li>5/18/24 - Caving day trip</li>
 <li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony</li>
@@ -81,7 +81,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <hr>
 
-  <div class="CampLeft">
+  <div class="UlLeft">
 <ul>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
@@ -159,26 +159,35 @@ and morally Strait.
 
   <hr>
   
-Ok, so youve visited, liked our troop, and now you wanna join, but what will You need?
+<strong>Ok, so youve visited, liked our troop, and now you wanna join, but what will You need?</strong>
   <br>
 First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
-  <p>
+
 <img src="https://github.com/Troop223/223-Official/assets/168667435/ab414dcb-a576-4d6b-8a43-3cb5952adb14" alt="sign up sheet"/>
-  </p>
+
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
 <br> 
-you will then have to pay about ~90 dollars as an acceptance fee.
-  <p>
+you will then have to pay about ~90 dollars as an acceptance fee, after which you will be a accepted.
   <br>  
+  
 Congrats! you are now an official Boy Scout of America! The next thing you will need is a uniform and Scout Book to look the part.
-  <br>
-A Scout uniform is an integril part of being a Scout. The uniform shows not only your friends and family, but also the entire country that you are a Boy Scout of America.
-  <br>
-A Scout uniform, which is also called a Class A, consists of four elements: Scout pants, a Scout Belt, a Scout shirt, and a Scout Necerchief.
-You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect and to show the public that you are a Scout.
-  
-  
+
+A Scout uniform is an important part of being a Scout. The uniform shows not only your friends and family, but also the entire country that you are a compatent Boy Scout of America.
+  <p>
+A Scout uniform, which is also called a Class A, consists of four elements: 
+  <div class="UlLeft">
+    <ul>
+<li>Scout pants, </li>
+<li>a Scout Belt, </li>
+<li>a Scout shirt, </li>
+<li>and a Scout Necerchief.</li>
+    </ul>
+  </div>
+You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect.
   </p>
+
+  
+
 
 
 
@@ -228,13 +237,7 @@ text-align: left;
     
   }
 
-.CampLeft {
-
-text-align: left;
-  
-}
-
-.SceduleLeft {
+.UlLeft {
 
 text-align: left;
   
