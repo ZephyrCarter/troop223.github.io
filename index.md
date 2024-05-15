@@ -154,6 +154,34 @@ and morally Strait.
 </h5>
 
 <hr>
+
+<h4>Ok, I wanna join Scouts, but what are some of the things I / My child will need?</h4>
+
+  <hr>
+  
+Ok, so youve visited, liked our troop, and now you wanna join, but what will You need?
+  <br>
+First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
+  <p>
+<img src="https://github.com/Troop223/223-Official/assets/168667435/ab414dcb-a576-4d6b-8a43-3cb5952adb14" alt="sign up sheet"/>
+  </p>
+This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
+<br> 
+you will then have to pay about ~90 dollars as an acceptance fee.
+  <p>
+  <br>  
+Congrats! you are now an official Boy Scout of America! The next thing you will need is a uniform and Scout Book to look the part.
+  <br>
+A Scout uniform is an integril part of being a Scout. The uniform shows not only your friends and family, but also the entire country that you are a Boy Scout of America.
+  <br>
+A Scout uniform, which is also called a Class A, consists of four elements: Scout pants, a Scout Belt, a Scout shirt, and a Scout Necerchief.
+You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect and to show the public that you are a Scout.
+  
+  
+  </p>
+
+
+
 <hr>
 
 <h6>
