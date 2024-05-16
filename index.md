@@ -177,6 +177,9 @@ Congrats! you are now an official Boy Scout of America! The next thing you will 
 A Scout uniform is an important part of being a Scout. The uniform shows not only your friends and family, but also the entire country that you are a compatent Boy Scout of America.
   <p>
 A Scout uniform, which is also called a Class A, consists of four elements: 
+  
+  <hr>
+  
   <div class="UlLeft">
     <ul>
 <li>Scout pants, </li>
@@ -185,22 +188,25 @@ A Scout uniform, which is also called a Class A, consists of four elements:
 <li>and a Scout Necerchief.</li>
     </ul>
   </div>
+
+<hr>
+  
 You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect.
   </p>
+  
 Here is an example of a properly dressed Scout:
 <br>
 
-<div class="ImageLeft">
-<img src="https://github.com/Troop223/223-Official/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
-</div>
+<hr>
 
-  <div class="ImageTxt">
+<img src="https://github.com/Troop223/223-Official/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
+
 <h6>
   <i>
 BSA Troop 1 - Albuquerque, NM
   </i>
 </h6>
-  </div>
+ 
 
   
 
