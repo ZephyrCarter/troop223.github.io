@@ -213,8 +213,42 @@ BSA Troop 1 - Albuquerque, NM
 
 <h5> A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.</h5>
 
-  <hr>
 But what does it contain?
+
+<hr>
+
+Well like I just said, it contains a Scedule, Advancement log, and ways to achieve Requirements that will help them advance. some of the things it teaches are:
+
+<hr>
+
+<ul>
+
+<li>Lashings(Used for building sturdy structures in the woods)</li>
+<li>Knots</li>
+<li>Swimming</li>
+<li>Fire building</li>
+<li>Enviromental Conservation</li>
+<li>Safe Camping</li>
+<li>Safe Hiking</li>
+<li>Cooking</li>
+<li>Safe Handling and Cleanup of Food</li>
+<li>Leadership</li>
+<li>Navigation</li>
+<li>First Aid</li>
+  
+</ul>
+
+<hr>
+
+All these tools and more are tought to Scouts, both by Adult leaders and Older Youth, and by the Scout book. 
+<br>
+Thats why its important to get the proper items for scouting, as it is both crucial for Scouting's image, in addition to being able to save a life if neccessary.
+
+
+
+
+
+
 
 
 
@@ -257,12 +291,6 @@ text-align: center;
 
   
 }
-
-  h6 {
-
-text-align: left;
-    
-  }
 
 .UlLeft {
 
