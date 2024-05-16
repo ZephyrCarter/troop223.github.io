@@ -211,9 +211,9 @@ BSA Troop 1 - Albuquerque, NM
 
 <hr>
 
-<h5> A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.</h5>
+<h5> A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.
 
-But what does it contain?
+But what does it contain?</h5>
 
 <hr>
 
