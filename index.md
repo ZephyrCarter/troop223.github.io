@@ -4,9 +4,9 @@
 
 <h5>
 
-  here in troop 223, we aim to help our scouts achieve all they can, all the way up to first class. 
+  Here in troop 223, we aim to help our scouts achieve all they can, all the way up to First Class. 
 <br>
-this is a troop whos aim is to help our scouts, according to the scout oath and law, to achieve milestones in thier lives which 
+This is a troop whose aim is to help our Scouts, according to the scout oath and law, to achieve milestones in thier lives which 
 will prepair them for life as a responsible adult, to help them understand how to be conservation minded, and to to give them the skills to have an effective and proactive adult life.
 
 <p>
@@ -36,15 +36,13 @@ First Class
   
   <p>
 
-first class is the fourth rank in scouting, and it is the minimum rank that most scouts should try to achieve. this is the rank where  adult leaders will try to help the scouts advance, and where they will learn basic elements of conservation, survival skils, and 
-responsibility that they will run into in thier everyday adult lives. 
+First class is the fourth rank in Scouting, and it is the minimum rank that most Scouts should try to achieve. this is the rank where adult leaders will try to help the scouts advance, and where they will learn basic elements of conservation, survival skils, and responsibility that they will run into in thier everyday adult lives. 
 
   </p>
 
 <p>
 
-The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for
-on thier own. these are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to    accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the armed forces. That is why Troop 223 is such a good choice when looking for troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
+The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for on thier own. These are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the Armed Forces. That is why Troop 223 is such a good choice when looking for Troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
 
 </p>
 
@@ -58,7 +56,7 @@ But what about Camping?
 
   <hr>
 
-As previously stated, we try to go camping at least once a month. our goal is to get the scouts to a proficiant rank, while still having fun. The Troop goes to a variety of locations, including state parks, Private camp sites, and scout camps, and in addition we try to get the scouts aquainted to a variety of locations and conditions, including rain, snow, heat and PAIN!  All jokes aside though, we try to get the scouts as prepaired as possible while still having fun. some of our activities on trips include: rapelling, biking, hiking, canoeing, shooting and much, much, more!
+As previously stated, we try to go camping at least once a month. our goal is to get the scouts to a proficiant rank, while still having fun. The Troop goes to a variety of locations, including State parks, Private camp sites, and Scout camps, and in addition we try to get the scouts aquainted to a variety of locations and conditions, including rain, snow, heat and PAIN!  All jokes aside though, we try to get the scouts as prepaired as possible while still having fun. some of our activities on trips include: Rapelling, biking, hiking, canoeing, shooting and much, much, more!
 
    <hr>
 
@@ -99,9 +97,9 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <hr>
 
 
-The <strong>Scout Oath</strong> and <strong>Law</strong> are a set of morals and principles which we as scouts are required to live by on a daily basis and throughout our communities. these are the laws and rules which are fundamentle to scouting as a whole, and without them scouting would not be the organization it is today.
+The <strong>Scout Oath</strong> and <strong>Law</strong> are a set of morals and principles which we as Scouts are required to live by on a daily basis and throughout our communities. these are the laws and rules which are fundamental to Scouting as a whole, and without them scouting would not be the organization it is today.
 <br>
-at every meeting we recite these, along with the pledge and outdoor code, to remind us to always be true to the fundamentals of scouting and to reinvigorate us with the <strong>Scout Spirit.</strong>
+At every meeting we recite these, along with the Pledge of Allegiance and Outdoor Code, to remind us to always be true to the fundamentals of Scouting and to reinvigorate us with the <strong>Scout Spirit.</strong>
 <hr>
 
 <h4><strong>Scout Oath</strong></h4>
@@ -161,7 +159,7 @@ and morally Strait.
 
   <hr>
   
-<strong>Ok, so youve visited, liked our troop, and now you wanna join, but what will You need?</strong>
+<strong>Ok, so you've visited, liked our Troop, and now you wanna join, but what will You need?</strong>
   <br>
 First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
 
@@ -169,12 +167,12 @@ First off, you will have to actually join. this is done with a sign up sheet, wh
 
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
 <br> 
-you will then have to pay about ~90 dollars as an acceptance fee, after which you will be a accepted.
+You will then have to pay about ~90 dollars as a fee, after which you will be a accepted.
   <br>  
   
-Congrats! you are now an official Boy Scout of America! The next thing you will need is a uniform and Scout Book to look the part.
+Congrats! You are now an official Boy Scout of America! The next thing you will need is a uniform and Scout Handbook to look the part.
 
-A Scout uniform is an important part of being a Scout. The uniform shows not only your friends and family, but also the entire country that you are a compatent Boy Scout of America.
+A Scout uniform is an important part of being a Scout. The uniform shows not only your friends and family, but also the entire Country that you are a competent Boy Scout of America.
   <p>
 A Scout uniform, which is also called a Class A, consists of four elements: 
   
@@ -191,7 +189,7 @@ A Scout uniform, which is also called a Class A, consists of four elements:
 
 <hr>
   
-You are expected to show up in full uniform at every meeting, raising and lowering of the Flag, and at many events to show Respect.
+You are expected to show up in full uniform at every meeting, Raising and Lowering of the Flag, and at many events to show Respect.
   </p>
   
 Here is an example of a properly dressed Scout:
@@ -207,9 +205,16 @@ BSA Troop 1 - Albuquerque, NM
   </i>
 </h6>
  
+ <hr>
 
-  
+<strong>The next thing you will need is a Scout Handbook</strong> 
 
+<hr>
+
+<h5> A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.</h5>
+
+  <hr>
+But what does it contain?
 
 
 
