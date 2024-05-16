@@ -221,6 +221,7 @@ Well like I just said, it contains a Scedule, Advancement log, and ways to achie
 
 <hr>
 
+<div class="UlLeft">
 <ul>
 
 <li>Lashings(Used for building sturdy structures in the woods)</li>
@@ -237,6 +238,8 @@ Well like I just said, it contains a Scedule, Advancement log, and ways to achie
 <li>First Aid</li>
   
 </ul>
+</div>
+
 
 <hr>
 
