@@ -284,8 +284,6 @@ Or call:  423-355-4430
 
 
 
-
-
 <style>
 
 body {
@@ -312,5 +310,14 @@ text-align: left;
   text-align: left;
     
   }
+
+  body {
+
+background-image: url("https://github.com/Troop223/223-Official/assets/168667435/3f2177a3-6abc-45f9-beac-aa5848e213ee");
+    
+  }
+
+
+
   
 </style>
