@@ -60,7 +60,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
    <hr>
 
-  <h4>Upcoming events and trips</h4>
+  <h4>Upcoming events and trips for the month</h4>
   
   <hr>
 
@@ -83,12 +83,35 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <div class="UlLeft">
 <ul>
+<li>Caving day trip</li>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
 </ul>
  </div>
      
 <a href="https://troop223.github.io/223-Official/CampHistoryHub">MORE</a>
+
+<hr>
+
+
+<h3>News</h3>
+
+
+<hr>
+
+
+  <div class="UlLeft">
+<ul>
+
+  <li>Jacks Eagle ceremony - <a href="URL">Click here to learn more</a></li>
+  <li>Caving day trip 
+  <li>Prepairing for Summer Camp 
+  
+</ul>
+  </div>
+
+<a href="url">MORE</a>
+
 
 <hr>
 
