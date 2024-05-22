@@ -103,11 +103,11 @@ As previously stated, we try to go camping at least once a month. our goal is to
   <li>Jacks Eagle ceremony 
   <li>Caving day trip 
   <li>Prepairing for Summer Camp 
-</ul>
-</div>
+
+
 <br>
 
-MOR
+MOREE
 
 
 <hr>
