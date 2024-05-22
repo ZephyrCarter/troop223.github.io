@@ -100,14 +100,15 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
 <div class="UlLeft">
 <ul>
-  <li>Jacks Eagle ceremony 
-  <li>Caving day trip 
-  <li>Prepairing for Summer Camp 
-
+  <li>Jacks Eagle ceremony</li>
+  <li>Caving day trip</li>
+  <li>Prepairing for Summer Camp</li>
+</ul>  
+</div>
 
 <br>
 
-MOREE
+MORE
 
 
 <hr>
