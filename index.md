@@ -98,16 +98,13 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
 <hr>
 
-
-  <div class="UlLeft">
+<div class="UlLeft">
 <ul>
-
   <li>Jacks Eagle ceremony 
   <li>Caving day trip 
   <li>Prepairing for Summer Camp 
-  
 </ul>
-  </div>
+</div>
 
 
 MORE
