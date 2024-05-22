@@ -9,11 +9,15 @@
 This is a troop whose aim is to help our Scouts, according to the scout oath and law, to achieve milestones in thier lives which 
 will prepair them for life as a responsible adult, to help them understand how to be conservation minded, and to to give them the skills to have an effective and proactive adult life.
 
+</h5>
+
+<h4>
+  
 <p>
 <strong>Please join us in helping the youth of America by signing up now!</strong>
 </p>
 
-</h5>
+</h4>
 
   <hr>
 
