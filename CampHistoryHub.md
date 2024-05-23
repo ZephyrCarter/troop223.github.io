@@ -2,6 +2,8 @@
 
 <hr>
 
+  <div class="">
+
 <ul>
 
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
