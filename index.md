@@ -87,8 +87,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <div class="UlLeft">
 <ul>
-<li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
-<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li> 
+<li><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Reservation</a></li>
+<li><a href="https://troop223.github.io/CampTripLatimer">Latimer Scout Camp</a></li> 
 </ul>
  </div>
      
@@ -186,7 +186,7 @@ and morally Strait.
   <br>
 First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
 
-<img src="https://github.com/Troop223/223-Official/assets/168667435/ab414dcb-a576-4d6b-8a43-3cb5952adb14" alt="sign up sheet"/>
+<img src="https://github.com/Troop223/assets/168667435/ab414dcb-a576-4d6b-8a43-3cb5952adb14" alt="sign up sheet"/>
 
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
 <br> 
@@ -220,7 +220,7 @@ Here is an example of a properly dressed Scout:
 
 <hr>
 
-<img src="https://github.com/Troop223/223-Official/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
+<img src="https://github.com/Troop223/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
 
 <h6>
   <i>
