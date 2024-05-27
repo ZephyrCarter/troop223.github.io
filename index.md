@@ -96,9 +96,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
 <hr>
 
-
-<h3>News</h3>
-
+  <h3>News</h3>
 
 <hr>
 
@@ -109,7 +107,6 @@ As previously stated, we try to go camping at least once a month. our goal is to
   <li>Prepairing for Summer Camp</li>
 </ul>  
 </div>
-<br>
 
 <a href="https://troop223.github.io/NewsHub">MORE</a>
 
