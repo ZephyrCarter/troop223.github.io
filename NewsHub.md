@@ -1,4 +1,4 @@
-<h2>Click on any of these links to view the most recent News of the troop</h2>
+<h2>Click on any of these links to view the most recent News of Troop 223!</h2>
 
 <hr>
 
