@@ -1,15 +1,20 @@
-<h2>Click on any of these links to view the Newest news of the troop</h2>
+<h2>Click on any of these links to view the most recent News of the troop</h2>
 
 <hr>
 
-  <div class="">
+  <div class="UlListLeft">
 
 <ul>
 
-<li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
-<li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
+<li>5/18/24 - Caving day trip</li>
+
+<li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony</li>
+
+<li>6/9/24 - Leaving for Summer Camp</li>
 
 </ul>
+
+</div>
 
 <hr>
 
@@ -30,5 +35,11 @@ text-align: center;
 
   
 }
+
+.UlListLeft{
+
+text-align: left;
+    
+  }
   
 </style>
