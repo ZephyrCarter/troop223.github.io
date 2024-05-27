@@ -186,7 +186,7 @@ and morally Strait.
   <br>
 First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
 
-<img src="https://github.com/Troop223/assets/168667435/ab414dcb-a576-4d6b-8a43-3cb5952adb14" alt="sign up sheet"/>
+<img src="https://github.com/Troop223/troop223.github.io/assets/168667435/6270eb8e-7143-496d-aff8-66e49488829e" alt="sign up sheet"/>
 
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
 <br> 
@@ -220,14 +220,14 @@ Here is an example of a properly dressed Scout:
 
 <hr>
 
-<img src="https://github.com/Troop223/assets/168667435/88f38ff9-ec2b-4663-8548-9d8730384714" alt="BSA Troop 1 - Albuquerque, NM"/>
+<img src="https://github.com/Troop223/troop223.github.io/assets/168667435/0f172e58-31c7-4d65-8b49-c496197521c4" alt="BSA Troop 1 - Albuquerque, NM"/>
 
 <h6>
   <i>
 BSA Troop 1 - Albuquerque, NM
   </i>
 </h6>
- 
+
  <hr>
 
 <strong>The next thing you will need is a Scout Handbook</strong> 
