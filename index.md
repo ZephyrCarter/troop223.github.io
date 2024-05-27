@@ -186,7 +186,11 @@ and morally Strait.
   <br>
 First off, you will have to actually join. this is done with a sign up sheet, which will probably look like this:
 
+<hr>
+
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/6270eb8e-7143-496d-aff8-66e49488829e" alt="sign up sheet"/>
+
+<hr>
 
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
 <br> 
