@@ -70,8 +70,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <div class="UlLeft">
 <ul>
-<li>5/18/24 - Caving day trip</li>
-<li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony</li>
+<li>5/18/24 - Caving day trip -Completed</li>
+<li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony -Completed</li>
 <li>6/9/24 - Leaving for Summer Camp</li>
 </ul>
   </div>
@@ -87,6 +87,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <div class="UlLeft">
 <ul>
+<li>Placed Flags on Veterans Graves at the Chattanooga National Cemetary</li>
+<li>Caving day trip</li>
 <li><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/CampTripLatimer">Latimer Scout Camp</a></li> 
 </ul>
