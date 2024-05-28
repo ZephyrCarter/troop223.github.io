@@ -6,6 +6,7 @@
 
 <ul>
 
+<li><a href="https://troop223.github.io/CampTripCaving1">Caving day trip</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
 
