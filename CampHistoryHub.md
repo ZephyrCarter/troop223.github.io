@@ -2,7 +2,7 @@
 
 <hr>
 
-  <div class="">
+  <div class="UlLinksLeft">
 
 <ul>
 
@@ -10,6 +10,8 @@
 <li><a href="https://troop223.github.io/223-Official/CampTripLatimer">Latimer Scout Camp</a></li>
 
 </ul>
+
+  </div>
 
 <hr>
 
@@ -28,6 +30,12 @@ body{
 
 text-align: center;
 
+  
+}
+
+.UlLinksLeft{
+
+text-align: left;
   
 }
   
