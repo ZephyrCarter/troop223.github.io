@@ -88,7 +88,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
   <div class="UlLeft">
 <ul>
 <li>Placed Flags on Veterans Graves at the Chattanooga National Cemetary</li>
-<li>Caving day trip</li>
+<li><a href="troop223.github.io/CampTripCaving1">Caving day trip</a></li>
 <li><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/CampTripLatimer">Latimer Scout Camp</a></li> 
 </ul>
