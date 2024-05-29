@@ -23,15 +23,13 @@ will prepair them for life as a responsible adult, to help them understand how t
 
 <hr>
 
-  <div class="UlCenter">
+  <div class="UlLeft">
 <ul>
   <li>Jack's Eagle Ceremony!</li>
-  <li>swim test at the YMCA</li>
+  <li>Swim test at the YMCA</li>
   <li>Prepairing for Summer Camp</li>
 </ul>  
-  </div>
 
-<div class="UlLeft">
   <a href="https://troop223.github.io/NewsHub">MORE</a>
 </div>
 
@@ -343,11 +341,6 @@ text-align: left;
     
   }
 
-  .UlCenter{
-
-text-align: center;
-    
-  }
 
 
 
