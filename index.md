@@ -64,7 +64,7 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
    <hr>
 
-  <h4>Upcoming events and trips for the month</h4>
+  <h4>Upcoming events and trips for the May</h4>
   
   <hr>
 
