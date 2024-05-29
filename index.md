@@ -84,6 +84,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 
   <hr>
 
+<!--
+
 <h4>Upcoming Meeting plans for May</h4>
    
   <hr>
@@ -98,6 +100,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <a href="URL">MORE</a>
  
   <hr>
+
+-->
 
 <h4>To see some of our previous trips, please look here:</h4>
 
