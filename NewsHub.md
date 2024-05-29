@@ -10,9 +10,9 @@
 
 <li>Swim test at the YMCA</li>
 
-<li>5/18/24 - Caving day trip</li>
+<li>Caving day trip</li>
 
-<li>6/9/24 - Leaving for Summer Camp</li>
+<li>Prepping for Summer Camp</li>
 
 </ul>
 
