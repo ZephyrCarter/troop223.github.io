@@ -1,14 +1,16 @@
-<h2>Click on any of these links to view the most recent News of Troop 223!</h2>
+<h2>View the most recent News of Troop 223!</h2>
 
 <hr>
 
   <div class="UlListLeft">
 
 <ul>
+  
+<li>Jack's Eagle Ceremony!</li>
+
+<li>Swim test at the YMCA</li>
 
 <li>5/18/24 - Caving day trip</li>
-
-<li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony</li>
 
 <li>6/9/24 - Leaving for Summer Camp</li>
 
