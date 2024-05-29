@@ -11,51 +11,56 @@ will prepair them for life as a responsible adult, to help them understand how t
 
 </h5>
 
-<h4>
-  
+  <h4>
 <p>
 <strong>Please join us in helping the youth of America by signing up now!</strong>
 </p>
+  </h4>
+  
+<hr>
 
-</h4>
+  <h3>News</h3>
 
-  <hr>
+<hr>
 
+  <div class="UlLeft">
+<ul>
+  <li>Jack's Eagle Ceremony!</li>
+  <li>Caving day trip; was a blast</li>
+  <li>Prepairing for Summer Camp</li>
+</ul>  
+  </div>
+<a href="https://troop223.github.io/NewsHub">MORE</a>
+
+<hr>
 <img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" width=1000 height=600/>
-
-<div class="ImageTxt">
-  <h6>
-<i>
-  Latimer Scout Camp during Sunset
-</i>
-  </h6>
-</div>
-
+  <div class="ImageTxt">
+<h6>
+  <i>
+Latimer Scout Camp during Sunset
+  </i>
+</h6>
+  </div>
+  
 <hr>
 
 Troop 223 tries to offer at least once-monethly campouts to our scouts, in order for them to rapidly advance to the rank of 
 First Class
 
-  <hr>
-  
+<hr> 
   <p>
 
 First class is the fourth rank in Scouting, and it is the minimum rank that most Scouts should try to achieve. this is the rank where adult leaders will try to help the scouts advance, and where they will learn basic elements of conservation, survival skils, and responsibility that they will run into in thier everyday adult lives. 
 
   </p>
-
 <p>
-
 The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for on thier own. These are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the Armed Forces. That is why Troop 223 is such a good choice when looking for Troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
-
 </p>
 
   <hr>
 
 <h3>
-
 But what about Camping?
-  
 </h3>
 
   <hr>
@@ -75,11 +80,24 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <li>6/9/24 - Leaving for Summer Camp</li>
 </ul>
   </div>
-
 <a href="https://troop223.github.io/UpcomingEventsHub">MORE</a>
 
- <hr>
+  <hr>
 
+<h4>Upcoming Meeting plans for May</h4>
+   
+  <hr>
+
+  <div class="UlLeft">
+<ul>
+<li>?</li>
+<li>?</li>
+<li>?</li>
+</ul>
+  </div>
+<a href="URL">MORE</a>
+ 
+  <hr>
 
 <h4>To see some of our previous trips, please look here:</h4>
 
@@ -92,26 +110,8 @@ As previously stated, we try to go camping at least once a month. our goal is to
 <li><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Reservation</a></li>
 <li><a href="https://troop223.github.io/CampTripLatimer">Latimer Scout Camp</a></li> 
 </ul>
- </div>
-     
+ </div>  
 <a href="https://troop223.github.io/CampHistoryHub">MORE</a>
-
-<hr>
-
-  <h3>News</h3>
-
-<hr>
-
-<div class="UlLeft">
-<ul>
-  <li>Jacks Eagle ceremony</li>
-  <li>Caving day trip</li>
-  <li>Prepairing for Summer Camp</li>
-</ul>  
-</div>
-
-<a href="https://troop223.github.io/NewsHub">MORE</a>
-
 
 <hr>
 
@@ -145,7 +145,8 @@ and morally Strait.
 <hr>
 
 <h4><strong>Scout Law</strong></h4>
-<h5>A Scout is
+<h5>
+  A Scout is
   <br>
   Trustworthy,
   <br>
@@ -173,14 +174,13 @@ and morally Strait.
   <br>
   Reverent
   <br>
-
 </h5>
 
 <hr>
 
-<h4>Ok, I wanna join Scouts, but what are some of the things I / My child will need?</h4>
+  <h4>Ok, I wanna join Scouts, but what are some of the things I / My child will need?</h4>
 
-  <hr>
+<hr>
   
 <strong>Ok, so you've visited, liked our Troop, and now you wanna join, but what will You need?</strong>
   <br>
@@ -193,12 +193,10 @@ First off, you will have to actually join. this is done with a sign up sheet, wh
 <hr>
 
 This sheet will need some basic info filled out, like address, phone number, and employment, and just some other things like that. 
-<br> 
+  <br> 
 You will then have to pay about ~90 dollars as a fee, after which you will be a accepted.
-  <br>  
-  
+  <br>   
 Congrats! You are now an official Boy Scout of America! The next thing you will need is a uniform and Scout Handbook to look the part.
-
 A Scout uniform is an important part of being a Scout. The uniform shows not only your friends and family, but also the entire Country that you are a competent Boy Scout of America.
   <p>
 A Scout uniform, which is also called a Class A, consists of four elements: 
@@ -215,12 +213,11 @@ A Scout uniform, which is also called a Class A, consists of four elements:
   </div>
 
 <hr>
-  
+  <p>
 You are expected to show up in full uniform at every meeting, Raising and Lowering of the Flag, and at many events to show Respect.
   </p>
-  
 Here is an example of a properly dressed Scout:
-<br>
+  <br>
 
 <hr>
 
@@ -238,8 +235,8 @@ BSA Troop 1 - Albuquerque, NM
 
 <hr>
 
-<h5> A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.
-
+<h5> 
+A Scout Handbook is a special book that is very imortant to scouts, as it holds a scouts scedule, advancement log, and Tools to help the Scout advance.
 But what does it contain?</h5>
 
 <hr>
