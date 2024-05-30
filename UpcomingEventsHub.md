@@ -1,4 +1,4 @@
-<h2>Click on any of these links to view any specifics about an upcoming trip/event</h2>
+<h2>Here is a list of our upcoming Trips/Events</h2>
 
 <hr>
 
