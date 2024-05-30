@@ -4,7 +4,7 @@
 
 <h3>JUNE</h3>
 
-<table class="center">
+<table>
   <tr>
     <th>Date</th>
     <th>Description</th>
@@ -32,7 +32,7 @@
 
 <h3>MAY</h3>
 
-<table class="center">
+<table>
   <tr>
     <th>Date</th>
     <th>Description</th>
@@ -67,6 +67,7 @@
 
 
 <style>
+  
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -75,20 +76,20 @@ table {
 
 td, th {
   border: 1px solid #dddddd;
-  text-align: center;
+  text-align: left;
   padding: 8px;
+  width: 60%;
 }
 
 tr:nth-child(even) {
   background-color: #dddddd;
 }
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-body{
+
+body {
 
 text-align: center;
-
+  
 }
+
+  
 </style>
