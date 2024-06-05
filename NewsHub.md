@@ -1,4 +1,4 @@
-<!-- V2.01-1/0 -->
+<!-- V3.00-0/0 -->
 
 <div class="topnav">
   <a href="https://troop223.github.io/">Home</a>
@@ -6,7 +6,7 @@
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/#ABOUT">About</a>
 </div>
-<h1>NEWSs</h1>
+<h1>NEWS</h1>
   <hr>
 <h2>View the most recent News of Troop 223!</h2>
   <hr>
