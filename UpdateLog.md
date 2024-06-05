@@ -1,4 +1,4 @@
-<!-- V2.03-0/0 -->
+<!-- V3.00-0/0 -->
 <div class="topnav">
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
@@ -74,7 +74,7 @@ Or call:  423-355-4430
 
 .flexbox-CONTACT {
 
-  min-height: 500px;
+  min-height: 200px;
   
 }
   
