@@ -1,7 +1,7 @@
-<!-- V1.01-0/0 -->
+<!-- V2.01-0/0 -->
 
 <div class="topnav">
-  <a href="https://troop223.github.io/#HOME">Home</a>
+  <a href="https://troop223.github.io/">Home</a>
   <a class="active" href="https://troop223.github.io/NewsHub">News</a>
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/#ABOUT">About</a>
