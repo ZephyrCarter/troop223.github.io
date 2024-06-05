@@ -1,4 +1,4 @@
-<!-- V2.01-0/0 -->
+<!-- V2.02-0/0 -->
 <div class="topnav">
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
@@ -14,7 +14,7 @@
     <li>Made Contact section much Nicer</li>
   </ul>
   <hr>
-	<div class="ContactCOLOR">
+<div class="ContactCOLOR">
   <div class="flexbox-item flexbox-CONTACT">
 <h6>
     <div id="CONTACT">
