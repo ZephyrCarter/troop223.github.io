@@ -1,42 +1,30 @@
-<!-- V1.00-0/0 -->
-<h1>NEWS</h1>
+<!-- V1.01-0/0 -->
+
 <div class="topnav">
   <a href="https://troop223.github.io/#HOME">Home</a>
   <a class="active" href="https://troop223.github.io/NewsHub">News</a>
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/#ABOUT">About</a>
 </div>
-
+<h1>NEWS</h1>
+    <hr>
 <h2>View the most recent News of Troop 223!</h2>
-
-<hr>
-
+    <hr>
   <div class="UlListLeft">
-
 <ul>
-  
 <li>Jack's Eagle Ceremony!</li>
-
 <li>Swim test at the YMCA</li>
-
 <li>Caving day trip</li>
-
 <li>Prepping for Summer Camp</li>
-
 </ul>
-
-</div>
-
-<hr>
-
+  </div>
+    <hr>
 <h6>
 questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> 
 <br> or our Scoutmaster at: 
 <a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
 </h6>
-
-<hr>
-
+    <hr>
 
 <style>
 
