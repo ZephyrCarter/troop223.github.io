@@ -1,4 +1,4 @@
-<!-- V1.00-0/0 -->
+<!-- V2.00-0/0 -->
 <div class="topnav">
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
@@ -15,6 +15,7 @@
   </ul>
   <hr>
 
+<style>
   .topnav {
   overflow: hidden;
   /*turns the background color on News, Contact, and about a color*/
@@ -42,4 +43,4 @@
   background-color: #5e5453;
   color: white;
 }
-  
+</style>
