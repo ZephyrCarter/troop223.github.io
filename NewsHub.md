@@ -1,4 +1,4 @@
-<!-- V1.00-1/0 -->
+<!-- V1.00-0/0 -->
 <h1>NEWS</h1>
 <div class="topnav">
   <a href="https://troop223.github.io/#HOME">Home</a>
