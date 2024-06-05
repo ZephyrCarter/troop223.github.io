@@ -6,7 +6,7 @@
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/#ABOUT">About</a>
 </div>
-<h1>NEWS</h1>
+<h1>NEWSs</h1>
   <hr>
 <h2>View the most recent News of Troop 223!</h2>
   <hr>
