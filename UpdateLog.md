@@ -1,4 +1,4 @@
-<!-- V2.00-0/0 -->
+<!-- V2.01-0/0 -->
 <div class="topnav">
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
@@ -14,7 +14,35 @@
     <li>Made Contact section much Nicer</li>
   </ul>
   <hr>
-
+	<div class="ContactCOLOR">
+  <div class="flexbox-item flexbox-CONTACT">
+<h6>
+    <div id="CONTACT">
+  questions or comments? please email us at:  <br>
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com</a> 
+  <br> 
+  or our Scoutmaster at: 
+<br>
+<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
+  <br>
+  you can also reach our Scoutmaster at:
+   423-355-4430
+    </div>
+<p>
+	
+  NOTE: our Scoutmaster does not directly control this site, so for any questions or comments please Email: 
+  <br>
+<a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>
+<br> And for any general questions about the Troop please Email:
+<br>
+<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
+  <br>
+Or call:  423-355-4430
+  </p>
+  </h6>
+ <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
+  </div>
+  </div>
 <style>
   .topnav {
   overflow: hidden;
@@ -43,4 +71,22 @@
   background-color: #5e5453;
   color: white;
 }
+
+.flexbox-CONTACT {
+
+  min-height: 500px;
+  
+}
+  
+  .ContactCOLOR{
+  
+  color: grey;
+  
+  }
+  
+  .ContactCOLOR a {
+  
+  color: #4697e3;
+  
+  }
 </style>
