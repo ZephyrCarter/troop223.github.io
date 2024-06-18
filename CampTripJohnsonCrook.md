@@ -17,6 +17,7 @@ to be exceptional Citezens in the United States of America!
 ![image](https://github.com/Troop223/troop223.github.io/assets/168667435/cfef3b66-fa12-458c-bc7f-2dd38dc6a1f4)
 ![image](https://github.com/Troop223/troop223.github.io/assets/168667435/09dd50f4-9ce0-4e97-b32d-87b6fdaafe0c)
 
+Photo Credits: Clifton McCormick
 
 <hr>
 
