@@ -10,6 +10,11 @@
     <th>Description</th>
     <th>Time</th>
   </tr>
+   <tr>
+    <td>06/27/24</td>
+    <td>Patrol Leader's Conference (PLC)</td>
+    <td>7:00 AM - 8:00 AM</td>
+  </tr>
   <tr>
     <td>06/20/24</td>
     <td>N/A (meeting cancelled)</td>
@@ -17,8 +22,8 @@
   </tr>
   <tr>
     <td>06/13/24</td>
-    <td>N/A (Leaving for Summer Camp)</td>
-    <td>N/A</td>
+    <td>Dutch Oven cooking</td>
+    <td>7:00 AM - 8:30 AM</td>
   </tr>
   <tr>
     <td>06/06/24</td>
