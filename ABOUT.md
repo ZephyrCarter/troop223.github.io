@@ -19,7 +19,7 @@ The next three ranks are Star, Life, and Eagle, and these the Scouts Must go for
 <div class="imgleft">
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/40273ce7-8bd7-4b94-b4b7-7993d5f95085" alt="Boy Scout Logo and symbol, meaning, history, PNG, brand"/>!
 </div>
-    </div>
+    
 
 <style>
 
