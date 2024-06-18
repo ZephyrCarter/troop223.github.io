@@ -20,7 +20,7 @@ recommend again!
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/49d374ea-7aca-4382-b65a-0bf2d7c6f3af" alt="An attached image"/>
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/392c523b-71af-4cdf-af44-bda9f7b675ce" alt="An attached image"/>
 </div>
-
+Photo Credits: Clifton McCormick
 <hr>
 
  <h6>
