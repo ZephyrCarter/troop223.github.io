@@ -2,7 +2,7 @@
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
-  <a class="active" href="https://troop223.github.io/ABOUT">About</a>
+  <a class="active" href="https://troop223.github.io/BOUT">About</a>
   <a href="https://troop223.github.io/prev+futureTrips">Trips</a>	
   <a href="https://troop223.github.io/UpdateLog">Update Log</a>	
 </div>
