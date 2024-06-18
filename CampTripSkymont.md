@@ -26,6 +26,7 @@ Ranch.
 
 ![image](https://github.com/Troop223/223-Official/assets/168667435/4301c50f-4243-4267-8712-8d627fd6d961)
 
+Photo Credits: Zephyr Carter
 <hr>
 
 <h6>
