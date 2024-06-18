@@ -6,9 +6,9 @@
 
 <ul>
 
-<li>5/18/24 - Caving day trip</li>
-<li>5/25/24 - Placing Flags at a National cemetary and an Eagle Ceremony</li>
-<li>6/9/24 - Leaving for Summer Camp</li>
+<li>Undecided - Will assign at next PLC</li>
+<li>Undecided - Will assign at next PLC</li>
+<li>Undecided - Will assign at next PLC</li>
 
 </ul>
 
