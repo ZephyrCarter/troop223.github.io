@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <div class="flexboxMain">
 <div class="topnav">
-  <a class="active" href="https://troop223.github.io/">Home</a>
+  <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/#ABOUT">About</a>
