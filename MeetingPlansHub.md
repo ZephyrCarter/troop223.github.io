@@ -12,8 +12,8 @@
   </tr>
   <tr>
     <td>06/20/24</td>
-    <td>Patrol Leader's Conference (PLC)</td>
-    <td>7:00 AM - 8:00 AM</td>
+    <td>N/A (meeting cancelled)</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>06/13/24</td>
