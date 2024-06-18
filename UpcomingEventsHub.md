@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  	<div class="flexboxMain">
+  <div class="flexboxMain">
 <div class="topnav">
   <a class="active" href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/NewsHub">News</a>
@@ -23,7 +23,7 @@
 </ul>
 
 </div>
-</div>
+
 
 <hr>
 
