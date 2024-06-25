@@ -11,7 +11,7 @@ recommend again!
 
 <hr>
 
-<div class="img">
+<div class="center">
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/04201140-9c5c-4ee3-a651-f7431fb55b94" alt="An attached image"/>
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/2695af8f-8929-482e-b5b0-f32158cb24b1" alt="An attached image"/>
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/cff9a586-b5d7-4f71-86a6-9739d93e7d0b" alt="An attached image"/>
@@ -20,6 +20,7 @@ recommend again!
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/49d374ea-7aca-4382-b65a-0bf2d7c6f3af" alt="An attached image"/>
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/392c523b-71af-4cdf-af44-bda9f7b675ce" alt="An attached image"/>
 </div>
+
 Photo Credits: Clifton McCormick
 <hr>
 
@@ -38,10 +39,12 @@ text-align: center;
 
   
 }
-.img {
-
-text-align: center;
   
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
   
 </style>
