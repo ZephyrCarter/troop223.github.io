@@ -65,7 +65,7 @@
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Camp Jackson Scottsboro, AL</td>
+  <td><a href="https://troop223.github.io/CampTripCampJackson">Camp Jackson Scottsboro, AL</a></td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
