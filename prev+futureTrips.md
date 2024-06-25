@@ -33,7 +33,7 @@
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Skymont Scout Camp</td>
+  <td><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Camp</a></td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -41,7 +41,7 @@
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Latimer Reservation Boy Scouts</td>
+  <td><a href="https://troop223.github.io/CampTripLatimer">Latimer Reservation Boy Scouts</a></td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
