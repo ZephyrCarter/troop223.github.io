@@ -15,9 +15,9 @@ First class is the fourth rank in Scouting, and it is the minimum rank that most
 <p>
 The next three ranks are Star, Life, and Eagle, and these the Scouts Must go for on thier own. These are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the Armed Forces. That is why Troop 223 is such a good choice when looking for Troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
 </p>
-<div class="imgleft">
-<img src="https://github.com/Troop223/troop223.github.io/assets/168667435/40273ce7-8bd7-4b94-b4b7-7993d5f95085" alt="Boy Scout Logo and symbol, meaning, history, PNG, brand"/>!
-</div>
+
+<img src="https://github.com/Troop223/troop223.github.io/assets/168667435/40273ce7-8bd7-4b94-b4b7-7993d5f95085" alt="Boy Scout Logo and symbol, meaning, history, PNG, brand" class="responsiveIMGsmall"/>
+
       
 
 <style>
@@ -67,5 +67,15 @@ text-align: left;
   min-height: 500px;
   
 }
-  
+  .responsiveIMGsmall {
+
+width: auto;
+height: auto;
+	
+}	
+  img {
+
+text-align: cenrer;
+    
+  }
 </style>
