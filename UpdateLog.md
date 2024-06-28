@@ -18,7 +18,7 @@
     <li>Made Contact section much Nicer</li>
   </ul>
   <hr>
-
+<div class="Center">
   <div class="flexbox-item flexbox-CONTACT">
 <h6>
     <div id="CONTACT">
@@ -45,6 +45,7 @@ Or call:  423-355-4430
   </p>
   </h6>
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
+  </div>
   </div>
   </div>
 <style>
@@ -81,7 +82,11 @@ Or call:  423-355-4430
   min-height: 200px;
   
 }
-  
+.Center {
+
+text-align: center;
+
+}
   
 
 </style>
