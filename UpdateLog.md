@@ -47,7 +47,6 @@ Or call:  423-355-4430
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
   </div>
   </div>
-  </div>
 <style>
   .topnav {
   overflow: hidden;
