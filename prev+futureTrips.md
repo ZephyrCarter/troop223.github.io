@@ -61,6 +61,15 @@
 
 <hr>
 <table>
+  <tr>
+  <th>Date</th>
+  <th>Location</th>
+  <th>Description</th>
+  <th>Meeting Place</th>
+  <th>Returning Meeting place</th>
+  <th>Meeting time</th>
+  <th>Returning time</th>
+</tr>
 <tr>
   <td>Pending info</td>
   <td>Summer Camp (Troop members went to different ones) Camp Bucktoms</td>
