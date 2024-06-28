@@ -13,19 +13,49 @@
 
 <hr>
 
+<h3>Future Trips</h3>
+
+<hr>
 <table>
 
 <tr>
   <th>Date</th>
   <th>Location</th>
+  <th>Description</th>
   <th>Meeting Place</th>
   <th>Returning Meeting place</th>
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
 <tr>
+  <td>07/27/24 - 08/05/24</td>
+  <th>Florida National High Adventure Sea Base</th>
+  <th>Members of Troop Leaving for Sea Base</th>
+  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
+  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
+  <td>Pending info</td>
+  <td>Pending Info</td>
+</tr>
+<tr>
+  <td>07/27/24</td>
+  <td>Pending Info</td>
+  <th>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223)</th>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending info</td>
+</tr>
+</table>
+<hr>
+
+<h3>Previous Trips</h3>
+
+<hr>
+<table>
+<tr>
   <td>Pending info</td>
   <td>Summer Camp (Troop members went to different ones) Camp Bucktoms</td>
+  <th>Scout Summer Camp for Merit Badges</th> 
   <td>222 Sequyah Rd, Soddy-Daisy, TN 37379</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -34,6 +64,7 @@
 <tr>
   <td>Pending info</td>
   <td><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Camp</a></td>
+  <th>Viking Themed Camporee</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -42,6 +73,7 @@
 <tr>
   <td>Pending info</td>
   <td><a href="https://troop223.github.io/CampTripLatimer">Latimer Reservation Boy Scouts</a></td>
+  <th>Repelling off naturl cliff</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -50,6 +82,7 @@
 <tr>
   <td>Pending info</td>
   <td>Johnson's Crook</td>
+  <th>Assembling fire pits for Camp</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -58,6 +91,7 @@
 <tr>
   <td>Pending info</td>
   <td>Frozen Head State park</td>
+  <th>Rainy weather Camping</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -66,6 +100,7 @@
 <tr>
   <td>Pending info</td>
   <td><a href="https://troop223.github.io/CampTripCampJackson">Camp Jackson Scottsboro, AL</a></td>
+  <th>Fun Camping trip</th>  
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
@@ -80,7 +115,7 @@
 
 <div class="Contact">
 <h6>
-questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a> 
+questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>   
 <br> or our Scoutmaster at: 
 <a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
 </h6>
