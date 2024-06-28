@@ -5,17 +5,20 @@
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/ABOUT">About</a>
   <a href="https://troop223.github.io/prev+futureTrips">Trips</a>
+  <a href="https://troop223.github.io/MeetingPlansHub">Meetings</a>
   <a class="active" href="https://troop223.github.io/UpdateLog">Update Log</a>
 </div>
 <h1>UPDATE LOG</h1>
   <hr>
   <ul>
+    <li>Fixed several spelling errors in the 'Meeting Plans' hub</li>
+    <li>Added a Meeting Plans calender</li>
     <li>Added a Navigation bar</li>
     <li>Made site Mobil-Friendly</li>
     <li>Made Contact section much Nicer</li>
   </ul>
   <hr>
-<div class="ContactCOLOR">
+
   <div class="flexbox-item flexbox-CONTACT">
 <h6>
     <div id="CONTACT">
@@ -79,21 +82,6 @@ Or call:  423-355-4430
   
 }
   
-  .ContactCOLOR{
   
-  color: grey;
-  
-  }
-  
-  .ContactCOLOR a {
-  
-  color: #4697e3;
-  
-  }
-   .flexbox-item{
 
-    width: 100%;
-    background-color: #2b2b2e;
-
-  }
 </style>
