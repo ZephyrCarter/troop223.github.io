@@ -10,6 +10,75 @@
 
 
 <h1>Here is a Schedule of all our meetings, including previous and future Meetups</h1>
+<hr>
+
+<h3>AUGUST</h3>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Time</th>
+  </tr>
+   <tr>
+    <td>08/29/24</td>
+    <td>PLC (Patrol Leaders Conference)</td>
+    <td>7:00 PM - 8:00 PM</td>
+  </tr>
+   <tr>
+    <td>08/22/24</td>
+    <td>Raft Race Preperations</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+  <tr>
+    <td>08/15/24</td>
+    <td>Raft Race Preperations</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+  <tr>
+    <td>08/08/24</td>
+    <td>Court Of Honor/Order of the Arrow Elections</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+  <tr>
+    <td>08/01/24</td>
+    <td>Board of Reviews/ScoutMaster Conferences</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+
+</table>
+
+<hr>
+<h3>JULY</h3>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Time</th>
+  </tr>
+   <tr>
+    <td>07/25/24</td>
+    <td>Starting Raft Construction</td>
+    <td>7:00 PM - 8:00 PM</td>
+  </tr>
+  <tr>
+    <td>07/18/24</td>
+    <td>Raft Race Preperation</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+  <tr>
+    <td>07/11/24</td>
+    <td>Sea Base preparations/Rank advancement</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+  <tr>
+    <td>07/04/24</td>
+    <td>N/A (July 4TH)</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
+
+</table>
 
 <hr>
 
@@ -24,7 +93,7 @@
    <tr>
     <td>06/27/24</td>
     <td>Patrol Leader's Conference (PLC)</td>
-    <td>7:00 AM - 8:00 AM</td>
+    <td>7:00 PM - 8:00 PM</td>
   </tr>
   <tr>
     <td>06/20/24</td>
@@ -34,12 +103,12 @@
   <tr>
     <td>06/13/24</td>
     <td>Dutch Oven cooking</td>
-    <td>7:00 AM - 8:30 AM</td>
+    <td>7:00 PM - 8:30 PM</td>
   </tr>
   <tr>
     <td>06/06/24</td>
     <td>Scout Skills (Activities like Knot tying)</td>
-    <td>7:00 AM - 8:30 AM</td>
+    <td>7:00 PM - 8:30 PM</td>
   </tr>
 
 </table>
