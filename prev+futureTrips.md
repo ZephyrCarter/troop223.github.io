@@ -28,6 +28,15 @@
   <th>Returning time</th>
 </tr>
 <tr>
+  <td>08/23/24 - 08/26/24</td>
+  <td>Pending Info</td>
+  <th>Once Yearly Handmade Bamboo Raft Race</th>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending info</td>
+</tr>
+<tr>
   <td>07/27/24 - 08/05/24</td>
   <th>Florida National High Adventure Sea Base</th>
   <th>Members of Troop Leaving for Sea Base</th>
