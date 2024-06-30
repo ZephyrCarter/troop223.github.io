@@ -73,7 +73,7 @@
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Summer Camp (Troop members went to different ones) Camp Bucktoms</td>
+  <td><a href="https://troop223.github.io/CampTripBucktoms">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
   <th>Scout Summer Camp for Merit Badges</th> 
   <td>222 Sequyah Rd, Soddy-Daisy, TN 37379</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
