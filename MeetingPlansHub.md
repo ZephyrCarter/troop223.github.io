@@ -12,7 +12,7 @@
 <h1>Here is a Schedule of all our meetings, including previous and future Meetups</h1>
 <hr>
 
-<h3>AUGUST</h3>
+<h3>AUGUST 2024</h3>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@
 </table>
 
 <hr>
-<h3>JULY</h3>
+<h3>JULY 2024</h3>
 
 <table>
   <tr>
@@ -82,7 +82,7 @@
 
 <hr>
 
-<h3>JUNE</h3>
+<h3>JUNE 2024</h3>
 
 <table>
   <tr>
@@ -115,7 +115,7 @@
 
 <hr>
 
-<h3>MAY</h3>
+<h3>MAY 2024</h3>
 
 <table>
   <tr>
