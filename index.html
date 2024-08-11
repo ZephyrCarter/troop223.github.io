@@ -1,21 +1,28 @@
 <!DOCTYPE html>
 
- <!-- V6.00-0/0 -->
+ <!-- V8.00-0/0 -->
  <!-- NOTE: All DIVs and thier closing tags are VERY necessary DO NOT delete -->
 
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://troop223.github.io/">Home</a>
+  <a href="https://troop223.github.io/#Comment">Comment</a>
+  <a href="https://troop223.github.io/ABOUT">About</a>	
+  <a href="https://troop223.github.io/#CONTACT">Contact</a>
+  <a href="https://troop223.github.io/MeetingPlansHub">Meetings</a>
+  <a href="https://troop223.github.io/prev+futureTrips">Trips</a>
+  <a href="https://troop223.github.io/NewsHub">News</a>
+  <a href="https://troop223.github.io/UpdateLog">Updates</a>
+</div>
+
+<div class="UlLeft">
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+</div>
+	
 <title>BSA Troop 223</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  	<div class="flexboxMain">
-<div class="topnav">
-  <a class="active" href="https://troop223.github.io/">Home</a>
-  <a href="https://troop223.github.io/NewsHub">News</a>
-  <a href="https://troop223.github.io/#CONTACT">Contact</a>
-  <a href="https://troop223.github.io/ABOUT">About</a>
-  <a href="https://troop223.github.io/prev+futureTrips">Trips</a>
-  <a href="https://troop223.github.io/MeetingPlansHub">Meetings</a>	
-  <a href="https://troop223.github.io/UpdateLog">Update Log</a>	
-  <a href="https://troop223.github.io/#Comment">Comment</a>
-</div>
+  	<div class="flexboxMain">	
+
 		
 <h1>Welcome to Troop 223!</h1>
 	<hr>
@@ -244,7 +251,7 @@ margin: 0;
 font-family: Arial, Helvetica, sans-serif;
 padding-left: 30%
 padding-right: 30%
-  
+font-family: "Lato", sans-serif;
 }
 
 comments{
@@ -351,8 +358,60 @@ height: auto;
 padding-top: 50px;
 
 }
-	
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}	
+
 </style>
+
+<!-- This is where the CSS stops and JS starts -->
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+
+
 
 
 
