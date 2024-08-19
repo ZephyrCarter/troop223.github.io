@@ -11,6 +11,8 @@
 <h1>UPDATE LOG</h1>
   <hr>
   <ul>
+    <li>added a side navigation bar on the main page</li>
+    <li>Added a Comment Section</li>	  
     <li>Fixed several spelling errors in the 'Meeting Plans' hub</li>
     <li>Added a Meeting Plans calender</li>
     <li>Added a Navigation bar</li>
