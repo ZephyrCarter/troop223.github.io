@@ -30,6 +30,16 @@
     <td>Raft Race Preperations</td>
     <td>7:00 PM - 8:30 PM</td>
   </tr>
+ <tr>
+    <td>08/20/24</td>
+    <td>UNOFFICIAL MEETING (Big Pony Patrol Only)</td>
+    <td>6:00 PM - 8:30 PM</td>
+  </tr>
+   <tr>
+    <td>08/22/24</td>
+    <td>Raft Race Preperations</td>
+    <td>7:00 PM - 8:30 PM</td>
+  </tr>
   <tr>
     <td>08/15/24</td>
     <td>Raft Race Preperations</td>
