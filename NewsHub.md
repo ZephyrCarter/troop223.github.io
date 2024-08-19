@@ -15,6 +15,9 @@
   <hr>
   <div class="UlListLeft">
 <ul>
+  
+<li>Lets get ready for that race(?)</li>
+<li>BUILD. THOSE. RAFTS. HURRY!!</li>
 <li>Jack's Eagle Ceremony!</li>
 <li>Swim test at the YMCA</li>
 <li>Caving day trip</li>
