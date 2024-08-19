@@ -31,30 +31,13 @@
 <tr>
   <td>08/23/24 - 08/26/24</td>
   <td>Pending Info</td>
-  <th>Once Yearly Handmade Bamboo Raft Race</th>
+  <th>Once Yearly Bamboo Raft Race</th>
   <td>Pending Info</td>
   <td>Pending Info</td>
   <td>Pending Info</td>
   <td>Pending info</td>
 </tr>
-<tr>
-  <td>07/27/24 - 08/05/24</td>
-  <th>Florida National High Adventure Sea Base</th>
-  <th>Members of Troop Leaving for Sea Base</th>
-  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
-  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
-  <td>Pending info</td>
-  <td>Pending Info</td>
-</tr>
-<tr>
-  <td>07/27/24</td>
-  <td>Pending Info</td>
-  <th>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223)</th>
-  <td>Pending Info</td>
-  <td>Pending Info</td>
-  <td>Pending Info</td>
-  <td>Pending info</td>
-</tr>
+
 </table>
 <hr>
 
@@ -70,6 +53,24 @@
   <th>Returning Meeting place</th>
   <th>Meeting time</th>
   <th>Returning time</th>
+</tr>
+  <tr>
+  <td>07/27/24 - 08/05/24</td>
+  <th>Florida National High Adventure Sea Base</th>
+  <th>Members of Troop Leaving for Sea Base</th>
+  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
+  <td>848  Ashland Terrace, Chattanooga TN 37415</td>
+  <td>Pending info</td>
+  <td>Pending Info</td>
+</tr>
+<tr>
+  <td>07/27/24</td>
+  <td>Tennessee Riverwalk (Chickamauga Dam)</td>
+  <th>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223) (Canceled)</th>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending info</td>
 </tr>
 <tr>
   <td>Pending info</td>
