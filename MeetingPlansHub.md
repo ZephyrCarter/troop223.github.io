@@ -10,6 +10,8 @@
 
 
 <h1>Here is a Schedule of all our meetings, including previous and future Meetups</h1>
+
+<h3>NOTE: All our Meetings are decided every Month, in our PLCs (Patrol Leader Conference)</h3>
 <hr>
 
 <h3>AUGUST 2024</h3>
