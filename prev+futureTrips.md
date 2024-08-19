@@ -10,7 +10,7 @@
   <a href="https://troop223.github.io/UpdateLog">Update Log</a>
 </div>
 
-<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since 2024 </h2>
+<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 2023 </h2>
 
 <hr>
 
@@ -93,7 +93,7 @@
 <tr>
   <td>Pending info</td>
   <td><a href="https://troop223.github.io/CampTripLatimer">Latimer Reservation Boy Scouts</a></td>
-  <th>Repelling off naturl cliff</th> 
+  <th>Repelling off natural cliff</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
