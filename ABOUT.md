@@ -15,13 +15,13 @@
 
 
 <h1>About</h1>
-<strong>
-First class is the fourth rank in Scouting, and it is the minimum rank that most Scouts should try to achieve. this is the rank where adult leaders will try to help the scouts advance, and where they will learn basic elements of conservation, survival skils, and responsibility that they will run into in thier everyday adult lives.
-</strong>
-<br>
-<p>
-The next three ranks are Star, Life, and Eagle, and these the Scouts Must go for on thier own. These are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the Armed Forces. That is why Troop 223 is such a good choice when looking for Troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
-</p>
+This is the website of Troop 223 of Cherokee Area Council, Located in Chattanooga TN. <br>
+This site is currently run by our former WebMaster, Patrol Leader, and Troop Guide, Zephyr C.<br>
+I have built this site from scratch, and using Github Pages to run it, update it Monthly at our Patrol Leader's Conferences so all our Members can stay up to date on all 
+our Meetings, Trips, and more. If you have any questions, comments, or suggestions, please feel free to message me in the Troop Facebook group, or Comment on our site in the Main menu. <br>
+All are welcome in our Troop, and I invite all to come to our weekly meetings! Thank You!
+
+
 
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/40273ce7-8bd7-4b94-b4b7-7993d5f95085" alt="Boy Scout Logo and symbol, meaning, history, PNG, brand" class="responsiveIMGsmall"/>
 
