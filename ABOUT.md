@@ -19,7 +19,9 @@ This is the website of Troop 223 of Cherokee Area Council, Located in Chattanoog
 This site is currently run by our former WebMaster, Patrol Leader, and Troop Guide, Zephyr C.<br>
 I have built this site from scratch, and using Github Pages to run it, update it Monthly at our Patrol Leader's Conferences so all our Members can stay up to date on all 
 our Meetings, Trips, and more. If you have any questions, comments, or suggestions, please feel free to message me in the Troop Facebook group, or Comment on our site in the Main menu. <br>
-All are welcome in our Troop, and I invite all to come to our weekly meetings! Thank You!
+All are welcome in our Troop, and I invite all to come to our weekly meetings! <br>
+
+Yours truly, Zephyr.
 
 
 
