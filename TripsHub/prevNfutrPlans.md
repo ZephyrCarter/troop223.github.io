@@ -18,6 +18,24 @@
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
+<tr>
+  <th>Date</th>
+  <th>Location</th>
+  <th>Description</th>
+  <th>Meeting Place</th>
+  <th>Returning Meeting place</th>
+  <th>Meeting time</th>
+  <th>Returning time</th>
+</tr>
+<tr>
+  <th>Date</th>
+  <th>Location</th>
+  <th>Description</th>
+  <th>Meeting Place</th>
+  <th>Returning Meeting place</th>
+  <th>Meeting time</th>
+  <th>Returning time</th>
+</tr>
 </table>
 <hr>
 
