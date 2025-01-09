@@ -148,6 +148,8 @@
 
 </div>
 
+<br>
+Article by: <em> - Zephyr Carter.</em>
 
 <hr>
 
