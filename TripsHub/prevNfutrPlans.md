@@ -144,6 +144,14 @@
   <td>Pending info</td>
   <td>~12:00 PM</td>
 
+</tr>
+</table>
+
+</div>
+
+<br>
+
+Article by: <em> - Zephyr Carter.</em>
 
 
 
@@ -176,18 +184,6 @@ text-align: left;
 }
 
  
-  .flexbox-item{
-
-    width: 100%;
-    background-color: #2b2b2e;
-
-  }
-
-.flexbox-CONTACT {
-
-  min-height: 500px;
-  
-}
 .Contact {
 
 text-align: center;
