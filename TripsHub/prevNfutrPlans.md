@@ -1,6 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-hi
 <h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 2023 </h2>
 
 <hr>
@@ -19,16 +18,6 @@ hi
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
-<tr>
-  <td>08/23/24 - 08/26/24</td>
-  <td>Pending Info</td>
-  <th>Once Yearly Bamboo Raft Race</th>
-  <td>Pending Info</td>
-  <td>Pending Info</td>
-  <td>Pending Info</td>
-  <td>Pending info</td>
-</tr>
-
 </table>
 <hr>
 
@@ -45,9 +34,27 @@ hi
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
+ <tr>
+  <th>05/18/24</th>
+  <th>Pending Info</th>
+  <th>An amazing Caving with amazingly tight spaces</th>
+  <th>Pending Info</th>
+  <th>Pending Info</th>
+  <th>Pending Info</th>
+  <th>Pending Info</th>
+</tr>
+<tr>
+  <td>08/23/24 - 08/26/24</td>
+  <td>Pending Info</td>
+  <th>Once Yearly Bamboo Raft Race</th>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending Info</td>
+  <td>Pending info</td>
+</tr>
   <tr>
   <td>07/27/24 - 08/05/24</td>
-  <th>Florida National High Adventure Sea Base</th>
+  <th><a href="https://troop223.github.io/TripsHub/Florida_Sea_Base2024/Florida_Sea_Base.html">Florida National High Adventure Sea Base</a></th>
   <th>Members of Troop Leaving for Sea Base</th>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -56,8 +63,8 @@ hi
 </tr>
 <tr>
   <td>07/27/24</td>
-  <td>Tennessee Riverwalk (Chickamauga Dam)</td>
-  <th>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223) (Canceled)</th>
+  <td>Tennessee Riverwalk (Chickamauga Dam) (Canceled)</td>
+  <th>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223)</th>
   <td>Pending Info</td>
   <td>Pending Info</td>
   <td>Pending Info</td>
@@ -65,7 +72,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td><a href="https://troop223.github.io/TripsHub/CampBucktoms1.html">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
+  <td><a href="https://troop223.github.io/TripsHub/CampBucktoms2024/CampBucktoms.html">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
   <th>Scout Summer Camp for Merit Badges</th> 
   <td>222 Sequyah Rd, Soddy-Daisy, TN 37379</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -83,7 +90,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td><a href="https://troop223.github.io/CampTripLatimer">Latimer Reservation Boy Scouts</a></td>
+  <td><a href="https://troop223.github.io/TripsHub/CampLatimer2024/CampLatimer.html">Latimer Reservation Boy Scouts</a></td>
   <th>Repelling off natural cliff</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -92,7 +99,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Johnson's Crook</td>
+  <td><a href="https://troop223.github.io/TripsHub/JohnsonCrook2024/JohnsonCrook.html">Johnson's Crook</a></td>
   <th>Assembling fire pits for Camp</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -101,7 +108,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td>Frozen Head State park</td>
+  <td><a href="https://troop223.github.io/TripsHub/Frozen_head_State_Park2023/Frozen_head_State_Park.html">Frozen Head State park</a></td>
   <th>Rainy weather Camping</th> 
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -110,7 +117,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td><a href="https://troop223.github.io/TripsHub/CampJackson1.html">Camp Jackson Scottsboro, AL</a></td>
+  <td><a href="https://troop223.github.io/TripsHub/CampJackson2024/CampJackson.html">Camp Jackson Scottsboro, AL</a></td>
   <th>Fun Camping trip</th>  
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
