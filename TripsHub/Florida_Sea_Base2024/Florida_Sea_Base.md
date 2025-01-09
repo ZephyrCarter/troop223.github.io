@@ -1,0 +1,14 @@
+<h3>Florida National High Adventure Sea Base</h3>
+
+<hr>
+
+<h2>Unfortunatly, I have no photos of this trip, but I will be sure to upload some as soon as I or Future Webmasters get the chance!</h2>
+
+<hr>
+
+<br>
+Article by: <em>- Zephyr Carter.</em>
+
+<hr>
+
+
