@@ -65,7 +65,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td><a href="https://troop223.github.io/TripsHub/CampTripBucktoms.html">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
+  <td><a href="https://troop223.github.io/TripsHub/CampBucktoms1.html">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
   <th>Scout Summer Camp for Merit Badges</th> 
   <td>222 Sequyah Rd, Soddy-Daisy, TN 37379</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
@@ -110,7 +110,7 @@ hi
 </tr>
 <tr>
   <td>Pending info</td>
-  <td><a href="https://troop223.github.io/CampTripCampJackson">Camp Jackson Scottsboro, AL</a></td>
+  <td><a href="https://troop223.github.io/TripsHub/CampJackson1.html">Camp Jackson Scottsboro, AL</a></td>
   <th>Fun Camping trip</th>  
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
