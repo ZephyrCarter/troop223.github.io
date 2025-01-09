@@ -36,12 +36,14 @@
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
+
 </table>
 <hr>
 
 <h3>Previous Trips</h3>
 
 <hr>
+
 <table>
   <tr>
   <th>Date</th>
