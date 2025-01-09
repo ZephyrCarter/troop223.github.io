@@ -7,12 +7,11 @@
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/#Comment">Post</a>
-  <a href="https://troop223.github.io/ABOUT">About</a>	
+  <a href="https://troop223.github.io/Menu/ABOUT.html">About</a>	
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
-  <a href="https://troop223.github.io/MeetingPlansHub">Meetings</a>
+  <a href="https://troop223.github.io/Menu/Meeting_Plans.html">Meetings</a>
   <a href="https://troop223.github.io/TripsHub/prevNfutrPlans.html">Trips</a>
-  <a href="https://troop223.github.io/NewsHub">News</a>
-  <a href="https://troop223.github.io/UpdateLog">Updates</a>
+  <a href="https://troop223.github.io/Menu/UpdateLog.html">Updates</a>
 </div>
 
 <div class="UlLeft">
@@ -27,7 +26,8 @@
 <h1>Welcome to Troop 223!</h1>
  </div>
 	
-	<hr>
+<hr>
+ 
 <div class="left">
 <h5>
   Here in troop 223, we aim to help our scouts achieve all they can, all the way up to First Class. 
@@ -203,7 +203,7 @@ Thats why its important to get the proper items for scouting, as it is both cruc
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
   </div> 
 
-	<div id="Comment">
+<div id="Comment">
 <!-- This is the comment section code -->
 <div class="powr-comments" id="23a3a399_1723394210"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 	</div>
@@ -212,7 +212,7 @@ Thats why its important to get the proper items for scouting, as it is both cruc
 
 
 
-	<div class="ContactCOLOR">
+<div class="ContactCOLOR">
   <div class="flexbox-item flexbox-CONTACT">
 <div class="ContInfo"
 <h6>
@@ -308,9 +308,9 @@ text-align: left;
 
   .flexbox-item{
 
-    width: 100%;
-    background-color: #2b2b2e;
-    margin: 0%;
+ width: 100%;
+ background-color: #2b2b2e;
+ margin: 0%;
   }
 
 .flexbox-CONTACT {
