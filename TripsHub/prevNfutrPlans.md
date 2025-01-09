@@ -1,4 +1,4 @@
-<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 202333 </h2>
+<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 2023 </h2>
 
 <hr>
 
@@ -141,27 +141,6 @@
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
   <td>~12:00 PM</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-Article by: <em> - Zephyr Carter.</em>
-
-
-
-<hr>
-
-<div class="Contact">
-<h6>
-questions or comments? please email us at: <a href="mailto:Bsa-223@protonmail.com">Bsa-223@protonmail.com </a>   
-<br> or our Scoutmaster at: 
-<a href="mailto:gomocs73@gmail.com">gomocs73@gmail.com</a>
-</h6>
-</div>
 
 <hr>
 
