@@ -21,13 +21,15 @@ got the idea to go down a mud covered entrance to another cave, which was to our
 went off into this second entrance. And Lo and Behold, this would turn out to be the entrance we were supposed to go into at the begginning! so these two Scouts went in down there, 
 the rest of the party waited at the front. But after a few minutes, one of our adult leaders decided to go down after them. so as we waited for what must have been 30-40 minuites,
 they finally came back out. they said they had found the rope that helped them climb the hill, they found the cavern which was supposedly twenty stories tall, and saw the creek that 
-flowed in there. so afterwards, we all changed, (because at that point we were all quite muddy) and went to El Meson to eat. Overall a very fun trip, but it left me tired at the end!
+flowed in there. so afterwards, we all changed, (because at that point we were all quite muddy) and went to El Meson to eat. Overall a very fun trip, but it left me tired at the end!!
 </p>
 
 <hr>
 
   <h3>Now unfortunatly, we didn't have our phones with us, so there are no photos. But hopefully next time, we will have some to share!</h3>
 
+<br>
+Article by: <em> - Zephyr Carter.</em>
 <hr>
 
 <h6>
