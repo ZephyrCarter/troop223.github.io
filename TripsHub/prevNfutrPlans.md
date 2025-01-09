@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 2023 </h2>
+<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 20233 </h2>
 
 <hr>
 
@@ -143,13 +143,9 @@
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
   <td>~12:00 PM</td>
-</tr>
-</table>
 
-</div>
 
-<br>
-Article by: <em> - Zephyr Carter.</em>
+
 
 <hr>
 
