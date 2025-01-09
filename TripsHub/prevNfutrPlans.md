@@ -36,7 +36,7 @@
 </tr>
  <tr>
   <th>05/18/24</th>
-  <th>Pending Info</th>
+  <th><a href="https://troop223.github.io/TripsHub/Caving_Trip2024/Caving_Trip.html">Pending Info</th>
   <th>An amazing Caving with amazingly tight spaces</th>
   <th>Pending Info</th>
   <th>Pending Info</th>
