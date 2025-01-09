@@ -21,7 +21,9 @@ recommend again!
 <img src="https://github.com/Troop223/troop223.github.io/assets/168667435/392c523b-71af-4cdf-af44-bda9f7b675ce" alt="An attached image"/>
 </div>
 
-Photo Credits: Clifton McCormick
+Photo Credits: Clifton McCormick 
+<br>
+Article by: <em> - Zephyr Carter.</em>
 <hr>
 
  <h6>
