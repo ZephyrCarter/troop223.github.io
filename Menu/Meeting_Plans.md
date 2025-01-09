@@ -1,14 +1,3 @@
-<div class="topnav">
-  <a href="https://troop223.github.io/">Home</a>
-  <a href="https://troop223.github.io/NewsHub">News</a>
-  <a href="https://troop223.github.io/#CONTACT">Contact</a>
-  <a href="https://troop223.github.io/ABOUT">About</a>
-  <a href="https://troop223.github.io/prev+futureTrips">Trips</a>
-  <a class="active" href="https://troop223.github.io/MeetingPlansHub">Meetings</a>	
-  <a href="https://troop223.github.io/UpdateLog">Update Log</a>	
-</div>
-
-
 <h1>Here is a Schedule of all our meetings, including previous and future Meetups</h1>
 
 <h3>NOTE: All our Meetings are decided every Month, in our PLCs (Patrol Leader Conference)</h3>
@@ -158,6 +147,8 @@
 
 </table>
 
+<br>
+Article by: <em> - Zephyr Carter. </em>
 <hr>
 
 
