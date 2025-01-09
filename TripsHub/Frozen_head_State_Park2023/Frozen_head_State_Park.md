@@ -6,4 +6,5 @@
 
 <hr>
 
-<em>- Zephyr Carter.</em>
+<br>
+Article by: <em>- Zephyr Carter.</em>
