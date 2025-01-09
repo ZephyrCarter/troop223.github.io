@@ -200,6 +200,10 @@ All these tools and more are tought to Scouts, both by Adult leaders and Older Y
 <br>
 Thats why its important to get the proper items for scouting, as it is both crucial for Scouting's image, in addition to being able to save a life if neccessary.
    <hr>
+   <div class="UlLeft">
+Article by <em> - Zephyr Carter.</em>
+   </div>
+   <hr>
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
   </div> 
 
