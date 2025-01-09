@@ -1,6 +1,4 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 20233 </h2>
+<h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 202333 </h2>
 
 <hr>
 
