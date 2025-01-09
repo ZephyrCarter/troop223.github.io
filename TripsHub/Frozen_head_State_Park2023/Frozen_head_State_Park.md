@@ -6,4 +6,4 @@
 
 <hr>
 
-<em>-Zephyr Carter.</em>
+<em>- Zephyr Carter.</em>
