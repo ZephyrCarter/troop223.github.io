@@ -3,6 +3,44 @@
 <h3>NOTE: All our Meetings are decided every Month, in our PLCs (Patrol Leader Conference)</h3>
 <hr>
 
+<h3>JANUARY 2025</h3>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Time</th>
+  </tr>
+   <tr>
+    <td>01/30/2025</td>
+    <td>To be decided</td>
+    <td>To be decided</td>
+  </tr>
+   <tr>
+    <td>01/23/2025</td>
+    <td>To be decided</td>
+    <td>To be decided</td>
+  </tr>
+  <tr>
+    <td>01/16/2025</td>
+    <td>To be decided</td>
+    <td>To be decided</td>
+  </tr>
+  <tr>
+    <td>01/09/2025</td>
+    <td>To be decided</td>
+    <td>To be decided</td>
+  </tr>
+  <tr>
+    <td>01/02/2025</td>
+    <td>To be decided</td>
+    <td>To be decided</td>
+  </tr>
+
+</table>
+
+<hr>
+
 <h3>AUGUST 2024</h3>
 
 <table>
