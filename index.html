@@ -7,15 +7,17 @@
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="https://troop223.github.io/">Home</a>
   <a href="https://troop223.github.io/#Comment">Post</a>
-  <a href="https://troop223.github.io/Menu/ABOUT.html">About</a>	
+  <a href="https://troop223.github.io/Menu/ABOUT.html">About</a>
   <a href="https://troop223.github.io/#CONTACT">Contact</a>
   <a href="https://troop223.github.io/Menu/Meeting_Plans.html">Meetings</a>
   <a href="https://troop223.github.io/TripsHub/prevNfutrPlans.html">Trips</a>
   <a href="https://troop223.github.io/Menu/UpdateLog.html">Updates</a>
 </div>
 
+
+<div id="main">
 <div class="UlLeft">
-<span style="font-size:30px;cursor:pointer"onclick="openNav()">&#9776;Menu</span>
+ <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
 </div>
 <title>BSA Troop 223</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -201,7 +203,7 @@ All these tools and more are tought to Scouts, both by Adult leaders and Older Y
 Thats why its important to get the proper items for scouting, as it is both crucial for Scouting's image, in addition to being able to save a life if neccessary.
    <hr>
    <div class="UlLeft">
-Article by <em> - Zephyr Carter.</em>
+By <em> - Zephyr Carter.</em>
    </div>
    <hr>
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
@@ -247,6 +249,7 @@ Or call:  423-355-4430
   </div>
  <!-- NOTE: These Div closers are VERY necessary DO NOT delete -->
   </div>
+</div>
 </div>
 <style>
 
@@ -364,6 +367,11 @@ height: auto;
 padding-top: 50px;
 
 }
+
+.Cmnt {float: left;}
+
+.SpecifCenter {text-align: center;}
+
 .sidenav {
   height: 100%;
   width: 0;
@@ -398,28 +406,40 @@ padding-top: 50px;
   margin-left: 50px;
 }
 
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}	
-
-.Cmnt {float: left;}
-
-.SpecifCenter {text-align: center;}
+}
 	
 </style>
 
 <!-- This is where the CSS stops and JS starts -->
 
+
 <script>
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
 }
 
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
 }
 </script>
+
+
+
+
+
+
+
+
 
 
 
