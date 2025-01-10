@@ -17,17 +17,25 @@
 
 <div id="main">
 <div class="UlLeft">
- <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+ 
 </div>
 <title>BSA Troop 223</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   	<div class="flexboxMain">	
 
 <!-- NOTE:	'SpecifCenter' uses the 'float' CSS property and is used as a div next to another div	-->
+
+<div class="logounion">
+<div class="menulogo">
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu </span>
+</div>
+<div class="logo">
  <div class="SpecifCenter">
 <h1>Welcome to Troop 223!</h1>
  </div>
-	
+</div>
+</div>
+
 <hr>
  
 <div class="left">
@@ -416,6 +424,12 @@ padding-top: 50px;
   .sidenav a {font-size: 18px;}
 }
 	
+.logounion {
+  display: flex;
+}
+.logounion > div {
+  width:33%;
+}
 </style>
 
 <!-- This is where the CSS stops and JS starts -->
@@ -432,16 +446,6 @@ function closeNav() {
   document.getElementById("main").style.marginLeft= "0";
 }
 </script>
-
-
-
-
-
-
-
-
-
-
 
 
 
