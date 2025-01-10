@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Futuree Trips</h3>
+<h3>Futureee Trips</h3>
 
 <hr>
 <table>
