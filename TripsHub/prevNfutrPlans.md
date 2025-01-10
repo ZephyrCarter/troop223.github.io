@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Futureee Trips</h3>
+<h3>Future Trips</h3>
 
 <hr>
 <table>
@@ -132,9 +132,7 @@
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
   <td>~12:00 PM</td>
-
-
-
+</tr>
 <tr>
   <td>Pending info</td>
   <td><a href="https://troop223.github.io/TripsHub/CampJackson2024/CampJackson.html">Camp Jackson Scottsboro, AL</a></td>
