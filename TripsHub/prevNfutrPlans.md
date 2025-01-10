@@ -1,8 +1,9 @@
+<div class="main">
 <h2>Here is a list of all Previous and Future trips Troop 223 has/will go on, since late 2023 </h2>
 
 <hr>
 
-<h3>Future Trips</h3>
+<h3>Futuree Trips</h3>
 
 <hr>
 <table>
@@ -36,7 +37,6 @@
 </tr>
 
 </table>
-
 <hr>
 
 <h3>Previous Trips</h3>
@@ -53,7 +53,7 @@
   <th>Meeting time</th>
   <th>Returning time</th>
 </tr>
-<tr>
+ <tr>
   <th>05/18/24</th>
   <th><a href="https://troop223.github.io/TripsHub/Caving_Trip2024/Caving_Trip.html">Pending Info</th>
   <th>An amazing Caving with amazingly tight spaces</th>
@@ -71,7 +71,7 @@
   <td>Pending Info</td>
   <td>Pending info</td>
 </tr>
-<tr>
+  <tr>
   <td>07/27/24 - 08/05/24</td>
   <th><a href="https://troop223.github.io/TripsHub/Florida_Sea_Base2024/Florida_Sea_Base.html">Florida National High Adventure Sea Base</a></th>
   <th>Members of Troop Leaving for Sea Base</th>
@@ -145,8 +145,10 @@
 </tr>
   </a>
   </th>
-</tr>
+ </tr>
 </table>
+
+</div>
 
 <style>
 
@@ -155,7 +157,6 @@
 body {
 
 text-align: center;
-
   
 }
 
@@ -184,10 +185,24 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
-  
+  background-color: #dddddd;}
+ 
+.main {
+
+
+padding: 42px 143px 42px 143px;
+
+
+}
+
 </style>
   
+
+
+
+
+
+
 
 
 
