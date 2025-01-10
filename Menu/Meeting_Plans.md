@@ -10,6 +10,11 @@
 
 <table>
  <tr>
+    <th>Date</th>
+    <th>Description</th>
+    <th>Time</th>
+  </tr>
+ <tr>
     <td>Date</td>
     <td>Description</td>
     <td>Time</td>
@@ -39,7 +44,7 @@
 
 <hr>
 -->
-<!-- capy and paste template here -->
+<!-- paste template here -->
 
 
 
