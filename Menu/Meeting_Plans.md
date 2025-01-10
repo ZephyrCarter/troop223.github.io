@@ -3,6 +3,46 @@
 <h3>NOTE: All our Meetings are decided every Month, in our PLCs (Patrol Leader Conference)</h3>
 <hr>
 
+<!-- copy and paste this template -->
+<!--
+
+<h3>MONTH, YEAR</h3>
+
+<table>
+ <tr>
+    <td>Date</td>
+    <td>Description</td>
+    <td>Time</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Description</td>
+    <td>Time</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Description</td>
+    <td>Time</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Description</td>
+    <td>Time</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Description</td>
+    <td>Time</td>
+  </tr>
+
+</table>
+
+<hr>
+-->
+<!-- capy and paste template here -->
+
+
+
 <h3>JANUARY 2025</h3>
 
 <table>
