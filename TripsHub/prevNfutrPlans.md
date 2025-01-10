@@ -1,0 +1,185 @@
+<h2>Here is a list of (most) Previous and Future trips Troop 223 has/will go on, since late 2023</h2>
+ <br>
+(NOTE: Troop 223 goes on at least one camping trip a month, however some discrepencies such as unrecorded dates and leaps in time occasionally occur due to human error)
+
+
+<hr>
+
+<h3>Future Trips</h3>
+
+<hr>
+<table>
+
+<tr>
+  <th>Date</th>
+  <th>Location</th>
+  <th>Description</th>
+</tr>
+ <tr>
+  <td>01/24-26/2025</td>
+  <td>Skymont Scout Camp</td>
+  <td>A trip to Skymont where Scouts and guests will stay in Scout lodge, with a Patrol cook-off later on. Go Big Ponies! (and rest of Troop 223 and 1223, of course!:>)</td>
+</tr>
+ <tr>
+  <td>01/23/2025</td>
+  <td>Undecided</td>
+  <td>an Orienteering course lesson to be decided</td>
+</tr>
+ <tr>
+  <td>01/18/2025</td>
+  <td>Frick's Cave</td>
+  <td>An EXCLUSIVE trip only available to those who volunteer on 01/11/2025</td>
+</tr>
+ <tr>
+  <td>01/16/2025</td>
+  <td>Undecided</td>
+  <td>an Orienteering course lesson to be decided</td>
+</tr>
+ <tr>
+  <td>01/11/2025</td>
+  <td>Frick's Cave</td>
+  <td>Unnoficial Scouting activity; Last year Troop came and cleaned Frick's Cave, a cave closed off 24/7 and not open to the public; in return for volunteer service, Scouts will be allowed to explore the cave on 01/18/2025. This is an exclusive invitation, NOT open to the public.</td>
+</tr>
+
+</table>
+<hr>
+
+<h3>Previous Trips</h3>
+
+<hr>
+
+<table>
+  <tr>
+  <th>Date</th>
+  <th>Location</th>
+  <th>Description</th>
+</tr>
+  <tr>
+  <td>01/09/2025</td>
+  <td>Pending info</td>
+  <td>an Orienteering course lesson to be decided</td>
+</tr>
+<tr>
+  <td>08/23/24 - 08/26/24</td>
+  <td>Pending Info</td>
+  <td>Once Yearly Bamboo Raft Race</td>
+</tr>
+  <tr>
+  <td>07/27/24 - 08/05/24</td>
+  <td><a href="https://troop223.github.io/TripsHub/Florida_Sea_Base2024/Florida_Sea_Base.html">Florida National High Adventure Sea Base</a></td>
+  <td>Members of Troop Leaving for Sea Base</td>
+</tr>
+<tr>
+  <td>07/27/24</td>
+  <td>Tennessee Riverwalk (Chickamauga Dam) (Canceled)</td>
+  <td>5 mile Hike for everyone not going to Sea Base (Troop 1223 + 223)</td>
+</tr>
+ <tr>
+  <td>05/18/24</td>
+  <td><a href="https://troop223.github.io/TripsHub/Caving_Trip2024/Caving_Trip.html">Pending Info</td>
+  <td>An amazing Caving with amazingly tight spaces</td>
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/TripsHub/CampBucktoms2024/CampBucktoms.html">Summer Camp (Troop members went to different ones) Camp Bucktoms</a></td>
+  <td>Scout Summer Camp for Merit Badges</td> 
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/CampTripSkymont">Skymont Scout Camp</a></td>
+  <td>Viking Themed Camporee</td> 
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/TripsHub/CampLatimer2024/CampLatimer.html">Latimer Reservation Boy Scouts</a></td>
+  <td>Repelling off natural cliff</td> 
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/TripsHub/JohnsonCrook2024/JohnsonCrook.html">Johnson's Crook</a></td>
+  <td>Assembling fire pits for Camp</td> 
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/TripsHub/Frozen_head_State_Park2023/Frozen_head_State_Park.html">Frozen Head State park</a></td>
+  <td>Rainy weather Camping</td> 
+</tr>
+<tr>
+  <td>Pending info</td>
+  <td><a href="https://troop223.github.io/TripsHub/CampJackson2024/CampJackson.html">Camp Jackson Scottsboro, AL</a></td>
+  <td>Fun Camping trip</td>  
+</tr>
+  </a>
+  </th>
+ </tr>
+</table>
+
+</div>
+
+<style>
+
+    </div>
+  
+body {
+
+text-align: center;
+  
+}
+
+.links {
+
+text-align: left;
+}
+
+ 
+.Contact {
+
+text-align: center;
+  
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;}
+ 
+.main {
+
+
+padding: 42px 143px 42px 143px;
+
+
+}
+
+</style>
+
+<!-- This is where the CSS stops and JS starts -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
