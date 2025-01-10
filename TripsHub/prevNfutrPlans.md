@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Futuree Trips</h3>
+<h3>Future Trips</h3>
 
 <hr>
 <table>
@@ -141,8 +141,6 @@
   <td>848  Ashland Terrace, Chattanooga TN 37415</td>
   <td>Pending info</td>
   <td>~12:00 PM</td>
-</tr>
-
 
     
   </a>
