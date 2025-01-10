@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Future Trips</h3>
+<h3>Futuree Trips</h3>
 
 <hr>
 <table>
@@ -142,6 +142,9 @@
   <td>Pending info</td>
   <td>~12:00 PM</td>
 </tr>
+
+
+    
   </a>
   </th>
  </tr>
