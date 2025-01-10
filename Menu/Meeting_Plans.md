@@ -1,3 +1,7 @@
+<div class="backleft">
+<div class="backlink"><a href="https://troop223.github.io"><< Back</a></div>
+</div>
+ 
 <h1>Here is a Schedule of all our meetings, including previous and future Meetups</h1>
 
 <h3>NOTE: All our Meetings are decided every Month, in our PLCs (Patrol Leader Conference)</h3>
@@ -236,7 +240,6 @@ Article by: <em> - Zephyr Carter. </em>
 
 
 
-
 <style>
   
 table {
@@ -256,11 +259,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-body {
-
-text-align: center;
-  
-}
 .topnav {
   overflow: hidden;
   /*turns the background color on News, Contact, and about a color*/
@@ -288,6 +286,21 @@ text-align: center;
   background-color: #5e5453;
   color: white;
 }
+body {
 
+padding: 42px 143px 42px 143px;
+text-align: center;
+
+}
+.backlink {
+
+font-size: 20px; 
+ 
+}
+.backleft {
+
+text-align: left;
+
+}
   
 </style>
