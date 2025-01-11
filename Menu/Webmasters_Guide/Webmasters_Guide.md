@@ -20,7 +20,7 @@ So, where do we begin? First off is going to the editing site. Go to 'github.com
 
 -------
 
-You will then be shown to the sign up/sign in page. I want you to now click 'Sign In' option
+You will then be shown to the sign up/sign in page. I want you to now click the 'Sign In' option
 
 -------
 
@@ -45,7 +45,7 @@ This is what it should look like when all the information is entered in correctl
 
 -------
 
-Now, you will shown the Account's home page. There is a section called 'Top repositories', I want you to now click 'Troop223/troop223.github.io' under it
+Now, you will shown the Account's home page. There is a section called 'Top repositories', I want you to click 'Troop223/troop223.github.io' under it
 
 -------
 
@@ -77,7 +77,7 @@ Next, click on the 'Trips' folder.
 
 -------
 
-Next, click on the ‘prevNfutrPlans.html’ file
+Now, click on the ‘prevNfutrPlans.html’ file
 
 -------
 
@@ -93,7 +93,7 @@ You will now be shown an overview of the code. We want to start editing, so clic
 
 -------
 
-Ok, now you are in editing mode. I want you to now scroll down slightly until you get to a dark grey section that says 'Copy and paste the Temlate below'.
+Ok, now you are in editing mode. I want you to now scroll down slightly until you get to a dark grey section that says 'Copy and paste the Template below'.
 
 -------
 
@@ -110,7 +110,11 @@ Now go ahead and highlight the shown section
 
 -------
 
-Next, find the grey line below that says 'Paste template here'. Paste it there. Next edit the three catagories that say 'Date', 'Location', and 'Description'. Give an accurate date, in numeric form, location and description of the Trip the Troop is going on. Once the Troop has come back from the trip, copy and delete the filled out template and scroll down to under the 'Previous Trips' section and paste there.
+Next, find the grey line below that says 'Paste template here'. Paste it there.
+<br>
+Next edit the three catagories that say 'Date', 'Location', and 'Description'. Give an accurate date, location and description of the Trip the Troop is going on.
+<br>
+Once the Troop has come back from the trip, copy and delete the filled out template and scroll down under the 'Previous Trips' section and paste the Filled out template there.
 
 -------
 
@@ -179,7 +183,7 @@ Paste the template, and starting with the bottem, fill out all the fields until 
 
 -------
 
-After finishing all work needed to update Meeting scedule, click the 'Commit changes' button at the top right corner of the screen. Add a short description if refered, and click 'Commit changes' again.
+After finishing all work needed to update Meeting scedule, click the 'Commit changes' button at the top right corner of the screen. Add a short description if prefered, and click 'Commit changes' again.
 
 -------
 
