@@ -1,3 +1,7 @@
+<div class="backleft">
+<div class="backlink"><a href="https://troop223.github.io"><< Back</a></div>
+</div>
+
 <h1>Webmaster's Guide</h1>
 
 <hr>
@@ -195,7 +199,26 @@ Yours, <em> - Zephyr Carter.</em>
 <br>
 Article by <em> - Zephyr Carter.</em>
 
+<style>
 
+body {
+
+padding: 42px 143px 42px 143px;
+text-align: center;
+
+}
+.backlink {
+
+font-size: 20px; 
+ 
+}
+.backleft {
+
+text-align: left;
+
+}
+  
+</style>
 
 
 
