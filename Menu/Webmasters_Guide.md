@@ -1,3 +1,6 @@
+<body>
+ 
+ <div id="webmstrpsswrd">
 <div class="backleft">
 <div class="backlink"><a href="https://troop223.github.io"><< Back</a></div>
 </div>
@@ -199,6 +202,10 @@ Yours, <em> - Zephyr Carter.</em>
 <br>
 Article by <em> - Zephyr Carter.</em>
 
+</div>
+
+</body>
+
 <style>
 
 body {
@@ -219,7 +226,19 @@ text-align: left;
   
 </style>
 
-
+ <script>
+        let password = "w318778";
+        (function passcodeprotect() {
+            let passcode = prompt("Enter PassCode");
+            while (passcode !== password) {
+                alert("Incorrect PassCode");
+                return passcodeprotect();
+            }
+        }());
+        alert('Welcome To The TP..!');
+        document.getElementById("webmstrpsswrd")
+            .style.display = "block";
+    </script>
 
 
 
