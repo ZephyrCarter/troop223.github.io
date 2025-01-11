@@ -203,7 +203,6 @@ Article by <em> - Zephyr Carter.</em>
 
 body {
 
-padding: 42px 143px 42px 143px;
 text-align: center;
 
 }
