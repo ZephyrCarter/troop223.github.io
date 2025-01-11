@@ -57,23 +57,31 @@ You will now be in the main menu of the Repository. There are two options you ca
 
 -------
 
-![Screenshot 2025-01-10 12 28 32 PM](https://github.com/user-attachments/assets/fcf8efcd-1e34-45e6-9db5-9e253a977e52)
+![Screenshot 2025-01-11 1 54 48 AM](https://github.com/user-attachments/assets/345e9ea4-b099-4670-9903-858497ce6dd0)
 
 -------
 
-So in order to update Trip plans, first click on the 'TripsHub' folder.
+So in order to update Trip plans, first click on the 'Menu' folder.
 
 -------
 
-![Screenshot 2025-01-10 12 28 32 PM](https://github.com/user-attachments/assets/091e23c9-81ec-48a4-8714-cc462975b119)
+![Screenshot 2025-01-11 1 56 19 AM](https://github.com/user-attachments/assets/51c09bc7-2bba-43f9-a865-6b3f01624927)
 
 -------
 
-Next, click on the 'prevNfutrPlans.html' file.
+Next, click on the 'Trips' folder.
 
 -------
 
-![Screenshot 2025-01-10 12 29 08 PM](https://github.com/user-attachments/assets/3d3ccec7-9f46-4679-bbf0-cd69a3a7ba53)
+![Screenshot 2025-01-11 1 59 31 AM](https://github.com/user-attachments/assets/391a6dc4-6c58-416d-a11d-2543d2f848b6)
+
+-------
+
+Next, click on the ‘prevNfutrPlans.html’ file
+
+-------
+
+![Screenshot 2025-01-11 2 03 14 AM](https://github.com/user-attachments/assets/9e1ce3a2-2d75-4d34-b8e9-13f6be8ad9c3)
 
 -------
 
@@ -89,7 +97,8 @@ Ok, now you are in editing mode. I want you to now scroll down slightly until yo
 
 -------
 
-![Screenshot 2025-01-10 12 33 01 PM](https://github.com/user-attachments/assets/8f160960-1627-47a5-9655-2c5de15c68f6)
+![Screenshot 2025-01-11 2 07 20 AM](https://github.com/user-attachments/assets/af35b9d2-f4ef-4c23-9b5a-b1ab3a80b76a)
+
 
 -------
 
