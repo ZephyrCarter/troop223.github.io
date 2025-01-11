@@ -45,7 +45,7 @@ This is what it should look like when all the information is entered in correctl
 
 -------
 
-Now,you will shown the Account's home page. There is a section called 'Top repositories', I want you to now click 'Troop223/troop223.github.io'
+Now, you will shown the Account's home page. There is a section called 'Top repositories', I want you to now click 'Troop223/troop223.github.io' under it
 
 -------
 
@@ -53,7 +53,7 @@ Now,you will shown the Account's home page. There is a section called 'Top repos
 
 -------
 
-You will now be in the main menu of the 'Repository'. There are two options you can choose from now. One is to update Trip plans, and the other is to update Meeting plans. First I will show how to update Trip plans.
+You will now be in the main menu of the Repository. There are two options you can choose from now, One is to update Trip plans, and the other is to update Meeting plans. First I will show how to update Trip plans.
 
 -------
 
@@ -61,7 +61,7 @@ You will now be in the main menu of the 'Repository'. There are two options you 
 
 -------
 
-So, in order to update meeting plans, first click on the 'TripsHub' folder.
+So in order to update Trip plans, first click on the 'TripsHub' folder.
 
 -------
 
@@ -77,7 +77,7 @@ Next, click on the 'prevNfutrPlans.html' file.
 
 -------
 
-Now you will be shown an overview of the code. We want to start editing, so click the 'edit' button represented by a pen icon. Don't worry if this seems comlex, I'm here to show you how to do do this.
+You will now be shown an overview of the code. We want to start editing, so click the 'edit' button represented by a pen icon
 
 -------
 
@@ -85,7 +85,7 @@ Now you will be shown an overview of the code. We want to start editing, so clic
 
 -------
 
-Ok, now you are in editing mode. I want you to now scroll down slightly until you get to a dark grey section that says 'Copy and paste the temlate below'.
+Ok, now you are in editing mode. I want you to now scroll down slightly until you get to a dark grey section that says 'Copy and paste the Temlate below'.
 
 -------
 
@@ -93,7 +93,7 @@ Ok, now you are in editing mode. I want you to now scroll down slightly until yo
 
 -------
 
-Now go ahead and highlite the shown section
+Now go ahead and highlight the shown section
 
 -------
 
@@ -101,7 +101,7 @@ Now go ahead and highlite the shown section
 
 -------
 
-Next, find the grey line below that says 'Paste template here'. Paste it there. Next edit the three catagories that say 'Date', 'Location', and 'Description'. Give an accurate date, in numeric form, location and description of the Trip the Troop is going on. Once the Troop has come back from the trip, copy and delete the filled out template and scroll down te under the 'Previous Trips' section and paste there.
+Next, find the grey line below that says 'Paste template here'. Paste it there. Next edit the three catagories that say 'Date', 'Location', and 'Description'. Give an accurate date, in numeric form, location and description of the Trip the Troop is going on. Once the Troop has come back from the trip, copy and delete the filled out template and scroll down to under the 'Previous Trips' section and paste there.
 
 -------
 
@@ -154,10 +154,11 @@ Scroll down to the grey 'Copy and paste this template' section. Copy the templat
 -------
 
 ![Screenshot 2025-01-10 2 44 50 PM](https://github.com/user-attachments/assets/51d3b9d9-70ad-479a-8d7f-6c50146d82de)
+![Screenshot 2025-01-11 1 08 53 AM](https://github.com/user-attachments/assets/9cc6a073-24e8-4dd2-87ff-017ea0495e77)
 
 -------
 
-Paste the template, and starting with the bottem, fill out all the fields until you get to the top, LEAVING the sections that have '<th>' and '</th>' surrounding them. Make sure to include all meetings of the month in template, so if there are technically five meetings in the month instead of four, copy and paste a duplicate of one of the sections to add another line.
+Paste the template, and starting with the bottem, fill out all the fields until you get to the top, LEAVING the sections that have '<th>' and '</th>' surrounding them. Make sure to include all meetings of the month in the Template, so as an example if there are technically five meetings in the month instead of four, copy and paste a section with '<tr>' and '</tr>' with Date, Description and Location to add another line.
 
 -------
 
@@ -165,7 +166,7 @@ Paste the template, and starting with the bottem, fill out all the fields until 
 
 ![Screenshot 2025-01-10 2 51 00 PM](https://github.com/user-attachments/assets/5478a8d5-5f00-4dc1-8364-e13f26b0476b)
 
-![Screenshot 2025-01-10 2 56 46 PM](https://github.com/user-attachments/assets/af4a3f65-6fa6-445d-8887-7cf08b72c1e2)
+![402171914-af4a3f65-6fa6-445d-8887-7cf08b72c1e2](https://github.com/user-attachments/assets/22dd8f7c-b94e-4cd0-a28a-24a62693d79e)
 
 -------
 
