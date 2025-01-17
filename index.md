@@ -229,7 +229,7 @@ will prepair them for life as a responsible adult, to help them understand how t
 </p>
   </h4>
 <hr>
-<img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="An attached image" class="responsiveIMGlarge"/>
+<img src="https://github.com/Troop223/223-Official/assets/168667435/385fb79e-b8b5-433b-90f5-49fe083b4ee6" alt="Photo from Latimer Scout Reservation" class="responsiveIMGlarge"/>
 <h6>
   <i>
 Latimer Scout Camp during Sunset
@@ -251,6 +251,15 @@ First class is the fourth rank in Scouting, and it is the minimum rank that most
 <p>
 The next three ranks are <strong>Star</strong>, <strong>Life</strong>, and <strong>Eagle</strong>, and these the Scouts Must go for on thier own. These are ranks that are highly saught after and mean a lot to achieve, especually Eagle, and are worth the time to accomplish. Achieving these can be vital when getting jobs in many fields, espesually in the Armed Forces. That is why Troop 223 is such a good choice when looking for Troops to join, because the skills and benifits achieved here can benifit Scouts both in the short term and the long run, leading to success and compitancy for Scouts in thier adult lives.
 </p>
+  <hr>
+<h3>When and Where</h3>
+  <hr>
+Troop meetings are generally held each Thursday from 7:00 to 8:30 PM.  One week each month is a PLC, which is only for troop leadership.  Meeting schedules are set by the PLC and distributed each month.
+<br>
+The location is the scout house behind St. Peter’s Episcople Church and School at 848 Ashland Terrace. There is some parking at the scout house itself, but beware it is very limited and difficult for most cars to turn around; impossible for many.  You are welcome to park at the top but NOT ON THE GRASS.  Plan to work closely with other parents if you need to leave early, and hopefully you have a back-up camera or a very limber neck.
+<br>
+<img src="https://github.com/user-attachments/assets/c0cdec79-09ae-46ee-9563-ba83d9508c88" alt="Scout House Location" class="responsiveIMGlarge"/>
+
   <hr>
 <h3>
 But what about Camping?
