@@ -1,4 +1,4 @@
-# This is BSA Troop 223's Official Website and Official github account.
+# This is a copy of BSA Troop 223's Official Website and Official github account, as of 01/28/2025. All content displayed here is work which I solely have done.
 This site was created soly by the former Webmaster Zephyr Carter, and is currently being kept up and maintained by Zephyr Carter from 01/08/2025 - ongoing. <br>
 If there are any inquires about the site, please message the Troop's official Facebook group and I/any other Webmasters will try to respond as soon as we can. <br>
 
